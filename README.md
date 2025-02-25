@@ -56,6 +56,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ![Currently Working On](https://raw.githubusercontent.com/jlengelbrecht/jlengelbrecht/main/current_work.svg)
 
 🌱 I’m constantly learning new ways to automate and optimize workflows.
-⚡ Owner of the Homelab.0 org. Checkout some of the repos to find homelab goodies.
+
+⚡ Owner of the Homelab.0 org
+Checkout some of the repos to find homelab goodies.
 
 ---
