@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Josh and I'm a devops engineer, from the US</h2>
+<h1 align="left">Hi 👋! My name is Josh!</h1>
+<h3 align="center">DevOps Engineer | Homelab Enthusiast | Infrastructure Wizard</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlengelbrecht&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlengelbrecht&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -42,4 +48,12 @@
 
 <img src="https://raw.githubusercontent.com/jlengelbrecht/jlengelbrecht/output/snake.svg" alt="Snake animation" />
 
-###
+## 💻 About Me
+
+I'm a DevOps engineer from the US who loves building automated, scalable solutions. My GitHub is a playground where I experiment with custom workflows, dynamic visualizations, and live stats—all powered by GitHub Actions!
+
+- 🔭 I’m currently working on custom GitHub workflows to display live code health and project stats.
+- 🌱 I’m constantly learning new ways to automate and optimize workflows.
+- ⚡ Fun fact: My GitHub profile even comes with a game—check out my custom Snake animation below!
+
+---
