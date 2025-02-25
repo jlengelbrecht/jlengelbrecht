@@ -52,8 +52,10 @@
 
 I'm a DevOps engineer from the US who loves building automated, scalable solutions. My GitHub is a playground where I experiment with custom workflows, dynamic visualizations, and live stats—all powered by GitHub Actions!
 
-- 🔭 I’m currently working on custom GitHub workflows to display live code health and project stats.
-- 🌱 I’m constantly learning new ways to automate and optimize workflows.
-- ⚡ Fun fact: My GitHub profile even comes with a game—check out my custom Snake animation below!
+🔭 I’m currently working on:
+![Currently Working On](https://raw.githubusercontent.com/jlengelbrecht/jlengelbrecht/main/current_work.svg)
+
+🌱 I’m constantly learning new ways to automate and optimize workflows.
+⚡ Owner of the Homelab.0 org. Checkout some of the repos to find homelab goodies.
 
 ---
