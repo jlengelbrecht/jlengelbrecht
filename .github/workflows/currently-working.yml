@@ -1,0 +1,37 @@
+name: "Update Currently Working On"
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs at the top of every hour; adjust as needed
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-current:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate 'Currently Working On' SVG
+        run: |
+          # Customize this message to reflect your current project/goal
+          CURRENT_WORKING_ON="Building an automated CI/CD pipeline for cloud deployments 🚀"
+          
+          # Generate a simple SVG image with the message
+          cat <<EOF > current_work.svg
+          <svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+            <rect width="600" height="100" fill="#1E1E1E" />
+            <text x="300" y="55" font-size="24" text-anchor="middle" fill="#61dafb" font-family="monospace">
+              Currently working on: ${CURRENT_WORKING_ON}
+            </text>
+          </svg>
+          EOF
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "your-email@example.com"
+          git config --global user.name "Your Name"
+          git add current_work.svg
+          git commit -m "Update currently working on SVG" || echo "No changes to commit"
+          git push
