@@ -53,7 +53,8 @@
 I'm a DevOps engineer from the US who loves building automated, scalable solutions. My GitHub is a playground where I experiment with custom workflows, dynamic visualizations, and live stats—all powered by GitHub Actions!
 
 🔭 I’m currently working on:
-![Currently Working On](https://raw.githubusercontent.com/jlengelbrecht/jlengelbrecht/main/current_work.svg)
+
+<img src="https://raw.githubusercontent.com/jlengelbrecht/jlengelbrecht/output/current_work.svg" alt="Current Work" />
 
 🌱 I’m constantly learning new ways to automate and optimize workflows.
 
