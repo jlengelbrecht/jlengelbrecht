@@ -2,7 +2,7 @@ name: Generate Currently Working On
 
 on:
   schedule:
-    - cron: "* */12 * * *"  # Runs every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -16,12 +16,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate current_work.svg
+      - name: generate current_work.svg
         run: |
           mkdir -p dist
-          # Update the message below with your current project status
           CURRENT_MESSAGE="Building automated CI/CD pipeline 🚀"
-          cat <<EOF > dist/current_work.svg
+          cat <<-'EOF' > dist/current_work.svg
           <svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
             <rect width="600" height="100" fill="#1E1E1E" />
             <text x="300" y="55" font-size="24" text-anchor="middle" fill="#61dafb" font-family="monospace">
@@ -30,7 +29,7 @@ jobs:
           </svg>
           EOF
 
-      - name: Push current_work.svg to the output branch
+      - name: push current_work.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
