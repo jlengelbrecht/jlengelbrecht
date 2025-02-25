@@ -1,37 +1,39 @@
-name: "Update Currently Working On"
+name: Generate Currently Working On
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs at the top of every hour; adjust as needed
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "* */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - master
 
 jobs:
-  update-current:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Generate 'Currently Working On' SVG
+      - name: Generate current_work.svg
         run: |
-          # Customize this message to reflect your current project/goal
-          CURRENT_WORKING_ON="Building an automated CI/CD pipeline for cloud deployments 🚀"
-          
-          # Generate a simple SVG image with the message
-          cat <<EOF > current_work.svg
+          mkdir -p dist
+          # Update the message below with your current project status
+          CURRENT_MESSAGE="Building automated CI/CD pipeline 🚀"
+          cat <<EOF > dist/current_work.svg
           <svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
             <rect width="600" height="100" fill="#1E1E1E" />
             <text x="300" y="55" font-size="24" text-anchor="middle" fill="#61dafb" font-family="monospace">
-              Currently working on: ${CURRENT_WORKING_ON}
+              Currently working on: ${CURRENT_MESSAGE}
             </text>
           </svg>
           EOF
 
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.email "your-email@example.com"
-          git config --global user.name "Your Name"
-          git add current_work.svg
-          git commit -m "Update currently working on SVG" || echo "No changes to commit"
-          git push
+      - name: Push current_work.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
