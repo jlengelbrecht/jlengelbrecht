@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋! My name is Josh!</h1>
 <h3 align="center">DevOps Engineer | Homelab Enthusiast | Infrastructure Wizard</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlengelbrecht&theme=dark&text_color=FFA500" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlengelbrecht&theme=dark&text_color=FFA500" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jlengelbrecht&theme=dark" alt="streak graph"  />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlengelbrecht&theme=dark&text_color=FFA500&hide_border=false" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlengelbrecht&locale=en&hide_title=false&layout=compact&theme=dark&text_color=FFA500&hide_border=false" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=jlengelbrecht&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" />
 </div>
 
 ###
