@@ -58,6 +58,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://youtube.com/@homelab.0?si=4ktCkDSXN3WUN2hK" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/joshua-engelbrecht/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -80,11 +81,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [homelab-0/Proxmox-Terraform-Template](https://github.com/homelab-0/Proxmox-Terraform-Template) - :octocat: Terraform managed Proxmox cluster :robot:
 - [USA-ROLEPLAY/.github](https://github.com/USA-ROLEPLAY/.github) - 
 - [USA-ROLEPLAY/repo-resources](https://github.com/USA-ROLEPLAY/repo-resources) - images etc for use in other repos etc.
 - [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
-- [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) - 
-- [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) -  -->
+- [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) -  -->
 
 ## 🌱 My latest projects
 
