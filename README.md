@@ -81,27 +81,27 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [homelab-0/.github](https://github.com/homelab-0/.github) - 
-- [homelab-0/Proxmox-Terraform-Template](https://github.com/homelab-0/Proxmox-Terraform-Template) - :octocat: Terraform managed Proxmox cluster :robot:
-- [USA-ROLEPLAY/.github](https://github.com/USA-ROLEPLAY/.github) - 
-- [USA-ROLEPLAY/repo-resources](https://github.com/USA-ROLEPLAY/repo-resources) - images etc for use in other repos etc.
-- [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab -->
+- [homelab-0/repo-resources](https://github.com/homelab-0/repo-resources) - resources images, etc. for use in other homelab.0 repos
+- [homelab-0/homelab0-github-pages](https://github.com/homelab-0/homelab0-github-pages) - :octocat: github pages config
+- [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
+- [homelab-0/.github](https://github.com/homelab-0/.github) - homelab.0 github profile page
+- [homelab-0/Proxmox-Terraform-Template](https://github.com/homelab-0/Proxmox-Terraform-Template) - :octocat: Terraform managed Proxmox cluster :robot: -->
 
 ## 🌱 My latest projects
 
+- [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
 - [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) - 
 - [jlengelbrecht/pi-ops](https://github.com/jlengelbrecht/pi-ops) - 
 - [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - 
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - my homelab repo for kubernetes managment 
 
 ## 🔨 My recent Pull Requests
 
 
 ## ⭐ Recent Stars
 
+- [lohitkolluri/Portfolio-Website](https://github.com/lohitkolluri/Portfolio-Website) - User-friendly portfolio website built with Vite.js and Three.js, showcasing projects, skills, and providing contact options.
+- [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [openaudible/openaudible](https://github.com/openaudible/openaudible) - Audiobook Manager for Audible Users
 - [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client) - A PHP API client class to interact with Ubiquiti&#39;s UniFi Controller API
 - [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-- [ripeda/macOS-Pkg-Builder](https://github.com/ripeda/macOS-Pkg-Builder) - Python module for creating macOS packages easily
-- [crazy-max/ghaction-container-scan](https://github.com/crazy-max/ghaction-container-scan) - GitHub Action to check for vulnerabilities in your container image
