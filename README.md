@@ -81,11 +81,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
 - [homelab-0/repo-resources](https://github.com/homelab-0/repo-resources) - resources images, etc. for use in other homelab.0 repos
 - [homelab-0/homelab0-github-pages](https://github.com/homelab-0/homelab0-github-pages) - :octocat: github pages config
 - [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
-- [homelab-0/.github](https://github.com/homelab-0/.github) - homelab.0 github profile page
-- [homelab-0/Proxmox-Terraform-Template](https://github.com/homelab-0/Proxmox-Terraform-Template) - :octocat: Terraform managed Proxmox cluster :robot: -->
+- [homelab-0/.github](https://github.com/homelab-0/.github) - homelab.0 github profile page -->
 
 ## 🌱 My latest projects
 
@@ -100,8 +100,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## ⭐ Recent Stars
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api&#39;s (lightweight alternative to postman/insomnia)
 - [lohitkolluri/Portfolio-Website](https://github.com/lohitkolluri/Portfolio-Website) - User-friendly portfolio website built with Vite.js and Three.js, showcasing projects, skills, and providing contact options.
 - [givanz/VvvebJs](https://github.com/givanz/VvvebJs) - Drag and drop page builder library written in vanilla javascript without dependencies or build tools.
 - [openaudible/openaudible](https://github.com/openaudible/openaudible) - Audiobook Manager for Audible Users
 - [Art-of-WiFi/UniFi-API-client](https://github.com/Art-of-WiFi/UniFi-API-client) - A PHP API client class to interact with Ubiquiti&#39;s UniFi Controller API
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
