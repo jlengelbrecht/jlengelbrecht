@@ -81,18 +81,18 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [jlengelbrecht/pi-ops](https://github.com/jlengelbrecht/pi-ops) - 
 - [jlengelbrecht/temp-plex](https://github.com/jlengelbrecht/temp-plex) - 
 - [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
 - [homelab-0/repo-resources](https://github.com/homelab-0/repo-resources) - resources images, etc. for use in other homelab.0 repos
-- [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
-- [homelab-0/homelab0-github-pages](https://github.com/homelab-0/homelab0-github-pages) - :octocat: github pages config -->
+- [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site -->
 
 ## 🌱 My latest projects
 
+- [jlengelbrecht/pi-ops](https://github.com/jlengelbrecht/pi-ops) - 
 - [jlengelbrecht/temp-plex](https://github.com/jlengelbrecht/temp-plex) - 
 - [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
 - [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) - 
-- [jlengelbrecht/pi-ops](https://github.com/jlengelbrecht/pi-ops) - 
 - [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
 
 ## 🔨 My recent Pull Requests
