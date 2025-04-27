@@ -83,8 +83,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 - [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
 - [homelab-0/repo-resources](https://github.com/homelab-0/repo-resources) - resources images, etc. for use in other homelab.0 repos
-- [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
 - [homelab-0/homelab0-github-pages](https://github.com/homelab-0/homelab0-github-pages) - :octocat: github pages config
+- [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
 - [homelab-0/.github](https://github.com/homelab-0/.github) - homelab.0 github profile page -->
 
 ## 🌱 My latest projects
