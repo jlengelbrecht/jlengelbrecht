@@ -83,8 +83,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 - [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
 - [homelab-0/repo-resources](https://github.com/homelab-0/repo-resources) - resources images, etc. for use in other homelab.0 repos
-- [homelab-0/homelab0-github-pages](https://github.com/homelab-0/homelab0-github-pages) - :octocat: github pages config
 - [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
+- [homelab-0/homelab0-github-pages](https://github.com/homelab-0/homelab0-github-pages) - :octocat: github pages config
 - [homelab-0/.github](https://github.com/homelab-0/.github) - homelab.0 github profile page -->
 
 ## 🌱 My latest projects
@@ -100,8 +100,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## ⭐ Recent Stars
 
+- [VirtualDrivers/Virtual-Display-Driver](https://github.com/VirtualDrivers/Virtual-Display-Driver) - Add virtual monitors to your windows 10/11 device! Works with VR, OBS, Sunshine, and/or any desktop sharing software.
+- [GoXLR-on-Linux/goxlr-utility](https://github.com/GoXLR-on-Linux/goxlr-utility) - An unofficial GoXLR App replacement for Linux, Windows and MacOS
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000&#43; formats ⚙️
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. A Load Balancer for Proxmox - and more!
-- [alvr-org/ALVR](https://github.com/alvr-org/ALVR) - Stream VR games from your PC to your headset via Wi-Fi
-- [jorenn92/Maintainerr](https://github.com/jorenn92/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
