@@ -82,8 +82,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 👷 Check out what I'm currently working on
 
 - [USA-ROLEPLAY/banned](https://github.com/USA-ROLEPLAY/banned) - List of banned player
-- [USA-ROLEPLAY/frontend](https://github.com/USA-ROLEPLAY/frontend) - 
 - [USA-ROLEPLAY/repo-resources](https://github.com/USA-ROLEPLAY/repo-resources) - images etc for use in other repos etc.
+- [USA-ROLEPLAY/frontend](https://github.com/USA-ROLEPLAY/frontend) - 
 - [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
 - [homelab-0/repo-resources](https://github.com/homelab-0/repo-resources) - resources images, etc. for use in other homelab.0 repos -->
 
@@ -97,13 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [Add custom logo to header](https://github.com/USA-ROLEPLAY/frontend/pull/2) on [USA-ROLEPLAY/frontend](https://github.com/USA-ROLEPLAY/frontend)
-- [Add Minecraft Roleplay server page and update server info link](https://github.com/USA-ROLEPLAY/frontend/pull/1) on [USA-ROLEPLAY/frontend](https://github.com/USA-ROLEPLAY/frontend)
 
 ## ⭐ Recent Stars
 
+- [cdp1337/ARKSurvivalAscended-Linux](https://github.com/cdp1337/ARKSurvivalAscended-Linux) - Simple install script for installing Windows version of Ark Survival Ascended on a Debian server.  Registers with systemd for integration and creates convenience links in /home/steam/ArkSurvivalAscended.
 - [mschnitzer/ark-survival-ascended-linux-container-image](https://github.com/mschnitzer/ark-survival-ascended-linux-container-image) - A docker/podman container that is able to run an ARK: Survival Ascended on a Linux host.
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
 - [pterodactyl-installer/pterodactyl-installer](https://github.com/pterodactyl-installer/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
 - [bagou4502/pterodactyl-addons](https://github.com/bagou4502/pterodactyl-addons) - Free and OpenSource pterodactyl addons made by Bagou450
-- [jontstaz/AI-Docker-Compose-Generator](https://github.com/jontstaz/AI-Docker-Compose-Generator) - Simply paste your Github Repo link and this app will generate a relevant Dockerfile &#43; docker-compose.yaml to easily deploy any repo/project.
