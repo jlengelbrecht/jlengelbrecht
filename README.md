@@ -81,11 +81,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers) - Repo for Ark server containers 
 - [USA-ROLEPLAY/banned](https://github.com/USA-ROLEPLAY/banned) - List of banned player
 - [USA-ROLEPLAY/repo-resources](https://github.com/USA-ROLEPLAY/repo-resources) - images etc for use in other repos etc.
 - [USA-ROLEPLAY/frontend](https://github.com/USA-ROLEPLAY/frontend) - 
-- [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
-- [homelab-0/repo-resources](https://github.com/homelab-0/repo-resources) - resources images, etc. for use in other homelab.0 repos -->
+- [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab -->
 
 ## 🌱 My latest projects
 
@@ -97,6 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [Fix typo in server downtime notice](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/80) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
+- [Add caution note for server downtime](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/78) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
+- [Disable scheduled cron jobs in asa-daily-restarts.yml](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/76) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
+- [Update GameUserSettings.ini](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/74) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
+- [Update docker-compose.yaml](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/70) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
 
 ## ⭐ Recent Stars
 
