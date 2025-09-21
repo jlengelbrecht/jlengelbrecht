@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [Enable GRUB loader with EFI support](https://github.com/jlengelbrecht/nixbuilds/pull/1) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
 - [Fix typo in server downtime notice](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/80) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
 - [Add caution note for server downtime](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/78) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
 - [Disable scheduled cron jobs in asa-daily-restarts.yml](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/76) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
 - [Update GameUserSettings.ini](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/74) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
-- [Update docker-compose.yaml](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/70) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
 
 ## ⭐ Recent Stars
 
