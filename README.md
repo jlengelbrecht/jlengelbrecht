@@ -81,19 +81,19 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds) - repo for nix builds I use
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - 
 - [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers) - Repo for Ark server containers 
 - [USA-ROLEPLAY/banned](https://github.com/USA-ROLEPLAY/banned) - List of banned player
-- [USA-ROLEPLAY/repo-resources](https://github.com/USA-ROLEPLAY/repo-resources) - images etc for use in other repos etc.
-- [USA-ROLEPLAY/frontend](https://github.com/USA-ROLEPLAY/frontend) -  -->
+- [USA-ROLEPLAY/repo-resources](https://github.com/USA-ROLEPLAY/repo-resources) - images etc for use in other repos etc. -->
 
 ## 🌱 My latest projects
 
+- [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds) - repo for nix builds I use
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - 
 - [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
 - [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) - 
 - [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
-- [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - 
 
 ## 🔨 My recent Pull Requests
 
@@ -105,8 +105,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## ⭐ Recent Stars
 
+- [JustAlternate/nixcfg](https://github.com/JustAlternate/nixcfg) - my nix files.
+- [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife approved HomeOps driven by Kubernetes, and Gitops via Flux.
 - [cdp1337/ARKSurvivalAscended-Linux](https://github.com/cdp1337/ARKSurvivalAscended-Linux) - Simple install script for installing Windows version of Ark Survival Ascended on a Debian server.  Registers with systemd for integration and creates convenience links in /home/steam/ArkSurvivalAscended.
 - [mschnitzer/ark-survival-ascended-linux-container-image](https://github.com/mschnitzer/ark-survival-ascended-linux-container-image) - A docker/podman container that is able to run an ARK: Survival Ascended on a Linux host.
 - [Cleanuparr/Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) - Cleanuparr is a tool for automating the cleanup of unwanted or blocked files in Sonarr, Radarr, and supported download clients like qBittorrent, Deluge and Transmission.
-- [pterodactyl-installer/pterodactyl-installer](https://github.com/pterodactyl-installer/pterodactyl-installer) - :bird: Unofficial installation scripts for Pterodactyl Panel
-- [bagou4502/pterodactyl-addons](https://github.com/bagou4502/pterodactyl-addons) - Free and OpenSource pterodactyl addons made by Bagou450
