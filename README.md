@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [Disable systemd-boot loader in configuration](https://github.com/jlengelbrecht/nixbuilds/pull/2) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
-- [Enable GRUB loader with EFI support](https://github.com/jlengelbrecht/nixbuilds/pull/1) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
-- [Fix typo in server downtime notice](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/80) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
-- [Add caution note for server downtime](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/78) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
-- [Disable scheduled cron jobs in asa-daily-restarts.yml](https://github.com/USA-ROLEPLAY/Ark_Servers/pull/76) on [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers)
+- [Adjust kitty module to destructure pkgs](https://github.com/jlengelbrecht/nixbuilds/pull/21) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
+- [Simplify desktop helper imports](https://github.com/jlengelbrecht/nixbuilds/pull/20) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
+- [Fix lib import for qwen code package](https://github.com/jlengelbrecht/nixbuilds/pull/19) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
+- [Destructure pkgs in kitty module](https://github.com/jlengelbrecht/nixbuilds/pull/18) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
+- [Refactor desktop helper imports](https://github.com/jlengelbrecht/nixbuilds/pull/17) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
 
 ## ⭐ Recent Stars
 
