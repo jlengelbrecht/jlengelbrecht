@@ -81,7 +81,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds) - repo for nix builds I use
+- [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - 
 - [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers) - Repo for Ark server containers 
 - [USA-ROLEPLAY/banned](https://github.com/USA-ROLEPLAY/banned) - List of banned player
@@ -89,7 +89,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🌱 My latest projects
 
-- [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds) - repo for nix builds I use
+- [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - 
 - [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
 - [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) - 
@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [Adjust kitty module to destructure pkgs](https://github.com/jlengelbrecht/nixbuilds/pull/21) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
-- [Simplify desktop helper imports](https://github.com/jlengelbrecht/nixbuilds/pull/20) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
-- [Fix lib import for qwen code package](https://github.com/jlengelbrecht/nixbuilds/pull/19) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
-- [Destructure pkgs in kitty module](https://github.com/jlengelbrecht/nixbuilds/pull/18) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
-- [Refactor desktop helper imports](https://github.com/jlengelbrecht/nixbuilds/pull/17) on [jlengelbrecht/nixbuilds](https://github.com/jlengelbrecht/nixbuilds)
+- [Adjust kitty module to destructure pkgs](https://github.com/jlengelbrecht/.dotfiles/pull/21) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
+- [Simplify desktop helper imports](https://github.com/jlengelbrecht/.dotfiles/pull/20) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
+- [Fix lib import for qwen code package](https://github.com/jlengelbrecht/.dotfiles/pull/19) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
+- [Destructure pkgs in kitty module](https://github.com/jlengelbrecht/.dotfiles/pull/18) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
+- [Refactor desktop helper imports](https://github.com/jlengelbrecht/.dotfiles/pull/17) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
 
 ## ⭐ Recent Stars
 
