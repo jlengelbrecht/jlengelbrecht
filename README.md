@@ -105,8 +105,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## ⭐ Recent Stars
 
+- [elrondforwin/dotfiles](https://github.com/elrondforwin/dotfiles) - my current desktop dotfiles
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [JustAlternate/nixcfg](https://github.com/JustAlternate/nixcfg) - my nix files.
-- [rafaribe/home-ops](https://github.com/rafaribe/home-ops) - Wife approved HomeOps driven by Kubernetes, and Gitops via Flux.
