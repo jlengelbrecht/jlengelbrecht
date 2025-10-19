@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [Update sylus-2025-03-20.json](https://github.com/jlengelbrecht/.dotfiles/pull/23) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
+- [Rename sylus-2025-03-20.json.txt to sylus-2025-03-20.json](https://github.com/jlengelbrecht/.dotfiles/pull/22) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
 - [Adjust kitty module to destructure pkgs](https://github.com/jlengelbrecht/.dotfiles/pull/21) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
 - [Simplify desktop helper imports](https://github.com/jlengelbrecht/.dotfiles/pull/20) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
 - [Fix lib import for qwen code package](https://github.com/jlengelbrecht/.dotfiles/pull/19) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
-- [Destructure pkgs in kitty module](https://github.com/jlengelbrecht/.dotfiles/pull/18) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
-- [Refactor desktop helper imports](https://github.com/jlengelbrecht/.dotfiles/pull/17) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
 
 ## ⭐ Recent Stars
 
