@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [Update sylus-2025-03-20.json](https://github.com/jlengelbrecht/.dotfiles/pull/23) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
-- [Rename sylus-2025-03-20.json.txt to sylus-2025-03-20.json](https://github.com/jlengelbrecht/.dotfiles/pull/22) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
-- [Adjust kitty module to destructure pkgs](https://github.com/jlengelbrecht/.dotfiles/pull/21) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
-- [Simplify desktop helper imports](https://github.com/jlengelbrecht/.dotfiles/pull/20) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
-- [Fix lib import for qwen code package](https://github.com/jlengelbrecht/.dotfiles/pull/19) on [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles)
+- [fix(rook-ceph): correct rook-ceph-operator dependency namespace](https://github.com/jlengelbrecht/prox-ops/pull/17) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [cleanup: remove migrated Rook-Ceph SOPS secrets file](https://github.com/jlengelbrecht/prox-ops/pull/16) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(rook-ceph): migrate CSI driver secrets from SOPS to 1Password](https://github.com/jlengelbrecht/prox-ops/pull/15) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [chore(rook-ceph): complete SOPS to 1Password migration for external cluster secret](https://github.com/jlengelbrecht/prox-ops/pull/14) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(rook-ceph): add missing Flux Kustomization for rook-ceph-external](https://github.com/jlengelbrecht/prox-ops/pull/13) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [sirkirby/unifi-network-mcp](https://github.com/sirkirby/unifi-network-mcp) - MCP server implementation for the UniFi network application
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [elrondforwin/dotfiles](https://github.com/elrondforwin/dotfiles) - my current desktop dotfiles
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [JustAlternate/nixcfg](https://github.com/JustAlternate/nixcfg) - my nix files.
