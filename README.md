@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(cilium): add serviceSelector to IoT and DMZ LoadBalancer pools](https://github.com/jlengelbrecht/prox-ops/pull/28) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(home-assistant): increase probe timeouts for startup reliability](https://github.com/jlengelbrecht/prox-ops/pull/27) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(home-assistant): allow root execution for s6-overlay init system](https://github.com/jlengelbrecht/prox-ops/pull/26) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(home-assistant): remove invalid nodeSelector for worker nodes](https://github.com/jlengelbrecht/prox-ops/pull/25) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat: deploy Home Assistant with IoT VLAN isolation and security hardening (STORY-023)](https://github.com/jlengelbrecht/prox-ops/pull/24) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(network): correct multus dependency namespace for network-attachments](https://github.com/jlengelbrecht/prox-ops/pull/23) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
