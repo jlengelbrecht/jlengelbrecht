@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(iot): add HTTPRoute and DNS access for Home Assistant (STORY-023)](https://github.com/jlengelbrecht/prox-ops/pull/35) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(iot): allow management VLAN ingress to Home Assistant (STORY-023)](https://github.com/jlengelbrecht/prox-ops/pull/34) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(iot): harden Home Assistant NetworkPolicy with minimal access controls (STORY-023)](https://github.com/jlengelbrecht/prox-ops/pull/33) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(home-assistant): allow external internet access for integrations](https://github.com/jlengelbrecht/prox-ops/pull/32) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(cilium): restrict IoT/DMZ L2 announcements to worker nodes only](https://github.com/jlengelbrecht/prox-ops/pull/31) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(cilium): add serviceSelector to L2 announcement policies](https://github.com/jlengelbrecht/prox-ops/pull/30) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
