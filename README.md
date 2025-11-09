@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(multus): correct CNI config path for Talos Linux](https://github.com/jlengelbrecht/prox-ops/pull/21) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(multus): deploy Multus CNI v4.2.3 for multi-VLAN pod attachment (STORY-021)](https://github.com/jlengelbrecht/prox-ops/pull/20) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(cilium): configure multi-VLAN LoadBalancer segmentation (STORY-020)](https://github.com/jlengelbrecht/prox-ops/pull/19) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat: Complete multi-NIC rollout to all 12 workers &#43; control plane taints](https://github.com/jlengelbrecht/prox-ops/pull/18) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(rook-ceph): correct rook-ceph-operator dependency namespace](https://github.com/jlengelbrecht/prox-ops/pull/17) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [cleanup: remove migrated Rook-Ceph SOPS secrets file](https://github.com/jlengelbrecht/prox-ops/pull/16) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
