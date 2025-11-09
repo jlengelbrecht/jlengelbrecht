@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: Complete multi-NIC rollout to all 12 workers &#43; control plane taints](https://github.com/jlengelbrecht/prox-ops/pull/18) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(rook-ceph): correct rook-ceph-operator dependency namespace](https://github.com/jlengelbrecht/prox-ops/pull/17) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [cleanup: remove migrated Rook-Ceph SOPS secrets file](https://github.com/jlengelbrecht/prox-ops/pull/16) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(rook-ceph): migrate CSI driver secrets from SOPS to 1Password](https://github.com/jlengelbrecht/prox-ops/pull/15) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(rook-ceph): complete SOPS to 1Password migration for external cluster secret](https://github.com/jlengelbrecht/prox-ops/pull/14) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(rook-ceph): add missing Flux Kustomization for rook-ceph-external](https://github.com/jlengelbrecht/prox-ops/pull/13) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
