@@ -81,7 +81,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - 
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers) - Repo for Ark server containers 
 - [USA-ROLEPLAY/banned](https://github.com/USA-ROLEPLAY/banned) - List of banned player
@@ -90,18 +90,18 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 🌱 My latest projects
 
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - 
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
 - [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) - 
 - [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
 
 ## 🔨 My recent Pull Requests
 
-- [feat(iot): add HTTPRoute and DNS access for Home Assistant (STORY-023)](https://github.com/jlengelbrecht/prox-ops/pull/35) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(iot): allow management VLAN ingress to Home Assistant (STORY-023)](https://github.com/jlengelbrecht/prox-ops/pull/34) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(iot): harden Home Assistant NetworkPolicy with minimal access controls (STORY-023)](https://github.com/jlengelbrecht/prox-ops/pull/33) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(home-assistant): allow external internet access for integrations](https://github.com/jlengelbrecht/prox-ops/pull/32) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(cilium): restrict IoT/DMZ L2 announcements to worker nodes only](https://github.com/jlengelbrecht/prox-ops/pull/31) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(terraform): add IoT and DMZ VLAN network interfaces to worker nodes](https://github.com/jlengelbrecht/prox-ops/pull/121) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(iot): remove obsolete Gluetun VPN proxy configuration from Home Assistant](https://github.com/jlengelbrecht/prox-ops/pull/120) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(observability): disable Loki alert rule management in Grafana UI](https://github.com/jlengelbrecht/prox-ops/pull/119) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(kube-system): increase DCGM exporter memory limits to prevent OOMKilled](https://github.com/jlengelbrecht/prox-ops/pull/118) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(kube-system): add nvidia runtimeClassName to DCGM exporter](https://github.com/jlengelbrecht/prox-ops/pull/117) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
