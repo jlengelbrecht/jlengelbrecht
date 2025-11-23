@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(terraform): resolve template module firewall config and parallel build issues](https://github.com/jlengelbrecht/prox-ops/pull/225) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(terraform): resolve template creation errors](https://github.com/jlengelbrecht/prox-ops/pull/224) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(terraform): correct Proxmox disk attachment syntax in template creation](https://github.com/jlengelbrecht/prox-ops/pull/223) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(terraform): correct Talos template disk attachment for bootable VMs](https://github.com/jlengelbrecht/prox-ops/pull/222) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(cattle): use talosctl for etcd validation instead of kubectl](https://github.com/jlengelbrecht/prox-ops/pull/221) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(cattle): use always() to force controller job evaluation when template is skipped](https://github.com/jlengelbrecht/prox-ops/pull/220) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
