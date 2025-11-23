@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: Add modular test flags for independent phase testing](https://github.com/jlengelbrecht/prox-ops/pull/217) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat: Add test_controllers_only mode for safe controller testing](https://github.com/jlengelbrecht/prox-ops/pull/216) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix: Implement Copilot resilience improvements](https://github.com/jlengelbrecht/prox-ops/pull/215) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat: Add defense-in-depth safety to controller upgrades](https://github.com/jlengelbrecht/prox-ops/pull/214) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [docs(architecture): add comprehensive upgrade workflow reference documentation](https://github.com/jlengelbrecht/prox-ops/pull/213) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [chore(talos): restore production version 1.11.5 (test pets workflow)](https://github.com/jlengelbrecht/prox-ops/pull/212) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
