@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [docs(architecture): add comprehensive upgrade workflow reference documentation](https://github.com/jlengelbrecht/prox-ops/pull/213) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(talos): restore production version 1.11.5 (test pets workflow)](https://github.com/jlengelbrecht/prox-ops/pull/212) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(workflow): rebuild templates for ALL version changes (cattle &#43; pets)](https://github.com/jlengelbrecht/prox-ops/pull/211) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(talos): downgrade to 1.10.8 to force cattle workflow (step 1 of 2)](https://github.com/jlengelbrecht/prox-ops/pull/210) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(talos): downgrade to 1.11.4 (step 1 of 2 to force template rebuild)](https://github.com/jlengelbrecht/prox-ops/pull/209) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [chore(talos): rebuild templates from 1.10.8 to production 1.11.5](https://github.com/jlengelbrecht/prox-ops/pull/208) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
