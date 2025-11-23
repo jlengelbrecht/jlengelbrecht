@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(cattle): correct bash arithmetic in workflow validation step](https://github.com/jlengelbrecht/prox-ops/pull/218) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat: Add modular test flags for independent phase testing](https://github.com/jlengelbrecht/prox-ops/pull/217) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat: Add test_controllers_only mode for safe controller testing](https://github.com/jlengelbrecht/prox-ops/pull/216) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix: Implement Copilot resilience improvements](https://github.com/jlengelbrecht/prox-ops/pull/215) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat: Add defense-in-depth safety to controller upgrades](https://github.com/jlengelbrecht/prox-ops/pull/214) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [docs(architecture): add comprehensive upgrade workflow reference documentation](https://github.com/jlengelbrecht/prox-ops/pull/213) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
