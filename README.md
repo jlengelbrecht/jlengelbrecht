@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(network): enhance WireGuard liveness probe for tunnel connectivity](https://github.com/jlengelbrecht/prox-ops/pull/300) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(oci): add nginx redirect from root URL to Plex web UI](https://github.com/jlengelbrecht/prox-ops/pull/299) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(oci): fix WireGuard MTU and certbot exit code detection](https://github.com/jlengelbrecht/prox-ops/pull/298) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(oci): add proxy_redirect and WebSocket headers for Plex](https://github.com/jlengelbrecht/prox-ops/pull/297) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(network): remove unsupported secretRef from wireguard-gateway SOPS config](https://github.com/jlengelbrecht/prox-ops/pull/296) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(network): add flux-system namespace to SOPS secretRef in wireguard-gateway](https://github.com/jlengelbrecht/prox-ops/pull/295) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(workflow): use terraform taint instead of targeted destroy](https://github.com/jlengelbrecht/prox-ops/pull/294) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
