@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(oci): require authentication for sensitive Plex API endpoints](https://github.com/jlengelbrecht/prox-ops/pull/303) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(oci): block /identity endpoint and fix redirect hostname](https://github.com/jlengelbrecht/prox-ops/pull/302) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(oci): fix cloud-init YAML parsing failure for fail2ban config](https://github.com/jlengelbrecht/prox-ops/pull/301) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(network): enhance WireGuard liveness probe for tunnel connectivity](https://github.com/jlengelbrecht/prox-ops/pull/300) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(oci): add nginx redirect from root URL to Plex web UI](https://github.com/jlengelbrecht/prox-ops/pull/299) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(media): add /.cache mount for Wizarr v2025.x](https://github.com/jlengelbrecht/prox-ops/pull/412) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(media): add writable /etc/wizarr mount for v2025.x compatibility](https://github.com/jlengelbrecht/prox-ops/pull/411) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(media): update Wizarr versioning scheme for Renovate](https://github.com/jlengelbrecht/prox-ops/pull/410) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(media): add s6-overlay capabilities for linuxserver/plex](https://github.com/jlengelbrecht/prox-ops/pull/408) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(media): migrate Plex to linuxserver/plex image](https://github.com/jlengelbrecht/prox-ops/pull/407) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
