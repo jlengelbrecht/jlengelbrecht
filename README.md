@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(wizarr): update health check endpoint for v2025.x](https://github.com/jlengelbrecht/prox-ops/pull/413) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(media): add /.cache mount for Wizarr v2025.x](https://github.com/jlengelbrecht/prox-ops/pull/412) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(media): add writable /etc/wizarr mount for v2025.x compatibility](https://github.com/jlengelbrecht/prox-ops/pull/411) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(media): update Wizarr versioning scheme for Renovate](https://github.com/jlengelbrecht/prox-ops/pull/410) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(media): add s6-overlay capabilities for linuxserver/plex](https://github.com/jlengelbrecht/prox-ops/pull/408) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(media): migrate Plex to linuxserver/plex image](https://github.com/jlengelbrecht/prox-ops/pull/407) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
