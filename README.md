@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(grafana): correct Ceph dashboard metrics for external cluster](https://github.com/jlengelbrecht/prox-ops/pull/419) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(rook-ceph): use Endpoints instead of EndpointSlice for Cilium](https://github.com/jlengelbrecht/prox-ops/pull/418) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(rook-ceph): add manual MGR monitoring endpoint for external cluster](https://github.com/jlengelbrecht/prox-ops/pull/417) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(media): add internal LoadBalancer for Plex LAN access](https://github.com/jlengelbrecht/prox-ops/pull/416) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(wizarr): update health check endpoint for v2025.x](https://github.com/jlengelbrecht/prox-ops/pull/413) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(media): add /.cache mount for Wizarr v2025.x](https://github.com/jlengelbrecht/prox-ops/pull/412) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
