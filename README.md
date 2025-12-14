@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(grafana): use kube-state-metrics for PVC panel](https://github.com/jlengelbrecht/prox-ops/pull/420) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(grafana): correct Ceph dashboard metrics for external cluster](https://github.com/jlengelbrecht/prox-ops/pull/419) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(rook-ceph): use Endpoints instead of EndpointSlice for Cilium](https://github.com/jlengelbrecht/prox-ops/pull/418) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(rook-ceph): add manual MGR monitoring endpoint for external cluster](https://github.com/jlengelbrecht/prox-ops/pull/417) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(media): add internal LoadBalancer for Plex LAN access](https://github.com/jlengelbrecht/prox-ops/pull/416) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): enable Open WebUI RAG integration via LightRAG Filter](https://github.com/jlengelbrecht/prox-ops/pull/520) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): add LightRAG as Ollama-compatible model in LiteLLM](https://github.com/jlengelbrecht/prox-ops/pull/519) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): enable Open WebUI egress to LightRAG and LiteLLM](https://github.com/jlengelbrecht/prox-ops/pull/518) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai): use LLM_BINDING_HOST for LightRAG LiteLLM routing](https://github.com/jlengelbrecht/prox-ops/pull/517) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): route LightRAG embeddings through LiteLLM gateway](https://github.com/jlengelbrecht/prox-ops/pull/516) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [valkiriaaquatica/provider-proxmox-bpg](https://github.com/valkiriaaquatica/provider-proxmox-bpg) - A Crossplane provider to interact with ProxmoxVE in kubernetes, based on https://github.com/bpg/terraform-provider-proxmox . On Upbound web: https://marketplace.upbound.io/providers/valkiriaaquaticamendi/provider-proxmox-bpg/v0.9.0
 - [sirkirby/unifi-network-mcp](https://github.com/sirkirby/unifi-network-mcp) - MCP server implementation for the UniFi network application
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [elrondforwin/dotfiles](https://github.com/elrondforwin/dotfiles) - my current desktop dotfiles
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
