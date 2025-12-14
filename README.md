@@ -105,8 +105,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## ⭐ Recent Stars
 
+- [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus
 - [valkiriaaquatica/provider-proxmox-bpg](https://github.com/valkiriaaquatica/provider-proxmox-bpg) - A Crossplane provider to interact with ProxmoxVE in kubernetes, based on https://github.com/bpg/terraform-provider-proxmox . On Upbound web: https://marketplace.upbound.io/providers/valkiriaaquaticamendi/provider-proxmox-bpg/v0.9.0
 - [sirkirby/unifi-network-mcp](https://github.com/sirkirby/unifi-network-mcp) - MCP server implementation for the UniFi network application
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [elrondforwin/dotfiles](https://github.com/elrondforwin/dotfiles) - my current desktop dotfiles
-- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
