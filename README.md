@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(renovate): add AI/ML category to dashboard and stability settings](https://github.com/jlengelbrecht/prox-ops/pull/529) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(renovate): remove invalid repositories option from config](https://github.com/jlengelbrecht/prox-ops/pull/528) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(renovate): use PR automerge type instead of branch](https://github.com/jlengelbrecht/prox-ops/pull/527) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(renovate): update automerge strategy for LinuxServer.io migration](https://github.com/jlengelbrecht/prox-ops/pull/526) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(renovate): update automerge strategy for LinuxServer.io migration](https://github.com/jlengelbrecht/prox-ops/pull/525) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): enable Open WebUI RAG integration via LightRAG Filter](https://github.com/jlengelbrecht/prox-ops/pull/520) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
