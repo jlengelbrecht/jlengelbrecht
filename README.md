@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [chore(renovate): update automerge strategy for LinuxServer.io migration](https://github.com/jlengelbrecht/prox-ops/pull/526) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(renovate): update automerge strategy for LinuxServer.io migration](https://github.com/jlengelbrecht/prox-ops/pull/525) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): enable Open WebUI RAG integration via LightRAG Filter](https://github.com/jlengelbrecht/prox-ops/pull/520) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): add LightRAG as Ollama-compatible model in LiteLLM](https://github.com/jlengelbrecht/prox-ops/pull/519) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): enable Open WebUI egress to LightRAG and LiteLLM](https://github.com/jlengelbrecht/prox-ops/pull/518) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): use LLM_BINDING_HOST for LightRAG LiteLLM routing](https://github.com/jlengelbrecht/prox-ops/pull/517) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
