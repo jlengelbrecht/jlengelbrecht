@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(renovate): migrate deprecated fileMatch to managerFilePatterns](https://github.com/jlengelbrecht/prox-ops/pull/531) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(renovate): remove duplicate config file causing conflicts](https://github.com/jlengelbrecht/prox-ops/pull/530) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(renovate): add AI/ML category to dashboard and stability settings](https://github.com/jlengelbrecht/prox-ops/pull/529) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(renovate): remove invalid repositories option from config](https://github.com/jlengelbrecht/prox-ops/pull/528) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(renovate): use PR automerge type instead of branch](https://github.com/jlengelbrecht/prox-ops/pull/527) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(copilot): enhance instructions for CodeRabbit parity](https://github.com/jlengelbrecht/prox-ops/pull/597) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(kubernetes): add Stakater Reloader annotations for secret rotation](https://github.com/jlengelbrecht/prox-ops/pull/595) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(security): add explicit SARIF category for code scanning](https://github.com/jlengelbrecht/prox-ops/pull/594) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(security): unify Gitleaks and SOPS validation into Security Gate workflow](https://github.com/jlengelbrecht/prox-ops/pull/593) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(security): enhance Gitleaks workflow with homebot and Renovate tracking](https://github.com/jlengelbrecht/prox-ops/pull/592) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus
-- [valkiriaaquatica/provider-proxmox-bpg](https://github.com/valkiriaaquatica/provider-proxmox-bpg) - A Crossplane provider to interact with ProxmoxVE in kubernetes, based on https://github.com/bpg/terraform-provider-proxmox . On Upbound web: https://marketplace.upbound.io/providers/valkiriaaquaticamendi/provider-proxmox-bpg/v0.9.0
+- [valkiriaaquatica/provider-proxmox-bpg](https://github.com/valkiriaaquatica/provider-proxmox-bpg) - A Crossplane provider to interact with ProxmoxVE
 - [sirkirby/unifi-network-mcp](https://github.com/sirkirby/unifi-network-mcp) - MCP server implementation for the UniFi network application
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-- [elrondforwin/dotfiles](https://github.com/elrondforwin/dotfiles) - my current desktop dotfiles
