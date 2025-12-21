@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [revert(flux): restore original wait config for cluster-secret-store](https://github.com/jlengelbrecht/prox-ops/pull/645) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(flux): disable health check for ClusterSecretStore (Flux bug #5311)](https://github.com/jlengelbrecht/prox-ops/pull/644) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(flux): remove wait to enable healthChecks for ClusterSecretStore](https://github.com/jlengelbrecht/prox-ops/pull/643) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(flux): add explicit health check for ClusterSecretStore](https://github.com/jlengelbrecht/prox-ops/pull/642) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(renovate): address versioning gaps causing false major updates](https://github.com/jlengelbrecht/prox-ops/pull/641) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(renovate): use regex versioning for LinuxServer images](https://github.com/jlengelbrecht/prox-ops/pull/640) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
