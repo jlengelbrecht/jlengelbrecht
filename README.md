@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(flux): add explicit health check for ClusterSecretStore](https://github.com/jlengelbrecht/prox-ops/pull/642) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(renovate): address versioning gaps causing false major updates](https://github.com/jlengelbrecht/prox-ops/pull/641) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(renovate): use regex versioning for LinuxServer images](https://github.com/jlengelbrecht/prox-ops/pull/640) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(copilot): enhance instructions for CodeRabbit parity](https://github.com/jlengelbrecht/prox-ops/pull/597) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(kubernetes): add Stakater Reloader annotations for secret rotation](https://github.com/jlengelbrecht/prox-ops/pull/595) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(security): add explicit SARIF category for code scanning](https://github.com/jlengelbrecht/prox-ops/pull/594) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
