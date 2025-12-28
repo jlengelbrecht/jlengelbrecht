@@ -82,31 +82,31 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 👷 Check out what I'm currently working on
 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
+- [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers) - Repo for Ark server containers 
-- [USA-ROLEPLAY/banned](https://github.com/USA-ROLEPLAY/banned) - List of banned player
-- [USA-ROLEPLAY/repo-resources](https://github.com/USA-ROLEPLAY/repo-resources) - images etc for use in other repos etc. -->
+- [USA-ROLEPLAY/banned](https://github.com/USA-ROLEPLAY/banned) - List of banned player -->
 
 ## 🌱 My latest projects
 
+- [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
 - [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) - 
-- [jlengelbrecht/repo-resources](https://github.com/jlengelbrecht/repo-resources) - collection of images to use for homelab
 
 ## 🔨 My recent Pull Requests
 
-- [feat(ci): add multi-host failover for Ceph version check](https://github.com/jlengelbrecht/prox-ops/pull/660) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ci): add Ceph version compatibility check workflow](https://github.com/jlengelbrecht/prox-ops/pull/659) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [revert(flux): restore original wait config for cluster-secret-store](https://github.com/jlengelbrecht/prox-ops/pull/645) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(flux): disable health check for ClusterSecretStore (Flux bug #5311)](https://github.com/jlengelbrecht/prox-ops/pull/644) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(flux): remove wait to enable healthChecks for ClusterSecretStore](https://github.com/jlengelbrecht/prox-ops/pull/643) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(grafana): enhance media dashboard with app status and qBittorrent improvements](https://github.com/jlengelbrecht/prox-ops/pull/678) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(grafana): switch Plex panels to palette-classic to fix red backgrounds](https://github.com/jlengelbrecht/prox-ops/pull/677) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(grafana): remove fill opacity from Plex graphs to eliminate red backgrounds](https://github.com/jlengelbrecht/prox-ops/pull/676) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(grafana): use hex color codes instead of color names for Plex graphs](https://github.com/jlengelbrecht/prox-ops/pull/675) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(grafana): change Plex graph colors from palette-classic to fixed colors](https://github.com/jlengelbrecht/prox-ops/pull/674) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus
 - [valkiriaaquatica/provider-proxmox-bpg](https://github.com/valkiriaaquatica/provider-proxmox-bpg) - A Crossplane provider to interact with ProxmoxVE
 - [sirkirby/unifi-network-mcp](https://github.com/sirkirby/unifi-network-mcp) - MCP server implementation for the UniFi network application
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
