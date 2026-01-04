@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ci): move timeout-minutes from composite action to workflow steps](https://github.com/jlengelbrecht/prox-ops/pull/701) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(cattle): add explicit minimal permissions to workflow](https://github.com/jlengelbrecht/prox-ops/pull/700) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(cattle): implement comprehensive multi-layer Terraform state lock clearing](https://github.com/jlengelbrecht/prox-ops/pull/699) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(cattle): enforce sequential controller upgrades with job-level concurrency](https://github.com/jlengelbrecht/prox-ops/pull/698) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ci): add 2-minute timeout to stale Terraform lock detection steps](https://github.com/jlengelbrecht/prox-ops/pull/697) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ci): use mshick/add-pr-comment for proper homelab-0 bot attribution](https://github.com/jlengelbrecht/prox-ops/pull/696) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
