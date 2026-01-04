@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(cattle): increase lock clearing timeout to 5 minutes](https://github.com/jlengelbrecht/prox-ops/pull/706) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(cattle): resolve YAML syntax error in lock detection](https://github.com/jlengelbrecht/prox-ops/pull/705) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(cattle): add emergency force-unlock for persistent S3 native lock](https://github.com/jlengelbrecht/prox-ops/pull/704) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ci): comprehensive Terraform lock clearing improvements](https://github.com/jlengelbrecht/prox-ops/pull/703) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ci): fix composite action timeout and S3 lock path issues](https://github.com/jlengelbrecht/prox-ops/pull/702) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ci): move timeout-minutes from composite action to workflow steps](https://github.com/jlengelbrecht/prox-ops/pull/701) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
