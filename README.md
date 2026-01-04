@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(grafana): enhance media dashboard with app status and qBittorrent improvements](https://github.com/jlengelbrecht/prox-ops/pull/678) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(grafana): switch Plex panels to palette-classic to fix red backgrounds](https://github.com/jlengelbrecht/prox-ops/pull/677) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(grafana): remove fill opacity from Plex graphs to eliminate red backgrounds](https://github.com/jlengelbrecht/prox-ops/pull/676) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(grafana): use hex color codes instead of color names for Plex graphs](https://github.com/jlengelbrecht/prox-ops/pull/675) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(grafana): change Plex graph colors from palette-classic to fixed colors](https://github.com/jlengelbrecht/prox-ops/pull/674) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(cattle): implement comprehensive multi-layer Terraform state lock clearing](https://github.com/jlengelbrecht/prox-ops/pull/699) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(cattle): enforce sequential controller upgrades with job-level concurrency](https://github.com/jlengelbrecht/prox-ops/pull/698) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ci): add 2-minute timeout to stale Terraform lock detection steps](https://github.com/jlengelbrecht/prox-ops/pull/697) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ci): use mshick/add-pr-comment for proper homelab-0 bot attribution](https://github.com/jlengelbrecht/prox-ops/pull/696) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ci): use mshick/add-pr-comment for proper homelab-0 bot attribution](https://github.com/jlengelbrecht/prox-ops/pull/695) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus
 - [valkiriaaquatica/provider-proxmox-bpg](https://github.com/valkiriaaquatica/provider-proxmox-bpg) - A Crossplane provider to interact with ProxmoxVE
-- [sirkirby/unifi-network-mcp](https://github.com/sirkirby/unifi-network-mcp) - MCP server implementation for the UniFi network application
