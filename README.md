@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(cattle): skip terraform plan verification after lock clear](https://github.com/jlengelbrecht/prox-ops/pull/707) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(cattle): increase lock clearing timeout to 5 minutes](https://github.com/jlengelbrecht/prox-ops/pull/706) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(cattle): resolve YAML syntax error in lock detection](https://github.com/jlengelbrecht/prox-ops/pull/705) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(cattle): add emergency force-unlock for persistent S3 native lock](https://github.com/jlengelbrecht/prox-ops/pull/704) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ci): comprehensive Terraform lock clearing improvements](https://github.com/jlengelbrecht/prox-ops/pull/703) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ci): improve GPU validation with instant device plugin exec](https://github.com/jlengelbrecht/prox-ops/pull/730) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ci): taint download and template resources, fix bash compatibility](https://github.com/jlengelbrecht/prox-ops/pull/729) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ci): resolve lock race conditions in parallel cattle upgrades](https://github.com/jlengelbrecht/prox-ops/pull/728) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ci): add Terraform lock contention handling for parallel cattle upgrades](https://github.com/jlengelbrecht/prox-ops/pull/727) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ci): properly quote JSONPath expression in Flux validation](https://github.com/jlengelbrecht/prox-ops/pull/726) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
