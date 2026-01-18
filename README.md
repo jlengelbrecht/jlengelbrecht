@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(authentik): update ToolHive OAuth2 redirect URI](https://github.com/jlengelbrecht/prox-ops/pull/774) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-ui): match LiteLLM network policy pattern exactly](https://github.com/jlengelbrecht/prox-ops/pull/773) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-ui): add toPorts to toServices rule for proper egress](https://github.com/jlengelbrecht/prox-ops/pull/772) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-ui): add toServices rule for LoadBalancer egress](https://github.com/jlengelbrecht/prox-ops/pull/771) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(coredns): add split-horizon DNS for homelab0.org internal resolution](https://github.com/jlengelbrecht/prox-ops/pull/770) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive-ui): use external Authentik URL for browser-based OIDC](https://github.com/jlengelbrecht/prox-ops/pull/769) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
