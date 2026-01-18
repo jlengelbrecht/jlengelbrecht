@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(ai): deploy ToolHive Registry Server (STORY-029-2)](https://github.com/jlengelbrecht/prox-ops/pull/758) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(mcp): deploy ToolHive Kubernetes operator](https://github.com/jlengelbrecht/prox-ops/pull/757) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): switch LiteLLM to stable releases and add Renovate tracking](https://github.com/jlengelbrecht/prox-ops/pull/756) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(n8n-mcp): use container port 5678 in NetworkPolicy egress](https://github.com/jlengelbrecht/prox-ops/pull/755) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(n8n-mcp): correct n8n API port from 5678 to 80](https://github.com/jlengelbrecht/prox-ops/pull/754) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(litellm): add n8n MCP server to gateway](https://github.com/jlengelbrecht/prox-ops/pull/753) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
