@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(toolhive-ui): add toPorts to toServices rule for proper egress](https://github.com/jlengelbrecht/prox-ops/pull/772) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(toolhive-ui): add toServices rule for LoadBalancer egress](https://github.com/jlengelbrecht/prox-ops/pull/771) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(coredns): add split-horizon DNS for homelab0.org internal resolution](https://github.com/jlengelbrecht/prox-ops/pull/770) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-ui): use external Authentik URL for browser-based OIDC](https://github.com/jlengelbrecht/prox-ops/pull/769) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(authentik): add ToolHive OAuth2 client env vars for blueprint](https://github.com/jlengelbrecht/prox-ops/pull/768) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive-ui): use HTTP for internal Authentik OIDC](https://github.com/jlengelbrecht/prox-ops/pull/767) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive-ui): use internal K8s networking for OIDC](https://github.com/jlengelbrecht/prox-ops/pull/766) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
