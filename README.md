@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(toolhive-registry): disable upstream registry due to data quality issues](https://github.com/jlengelbrecht/prox-ops/pull/780) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(toolhive-registry): use correct api.endpoint config field](https://github.com/jlengelbrecht/prox-ops/pull/779) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(toolhive): enable registry catalog with upstream MCP sync](https://github.com/jlengelbrecht/prox-ops/pull/778) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-registry): add leader election RBAC permissions](https://github.com/jlengelbrecht/prox-ops/pull/777) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-registry): allow ingress from toolhive-ui](https://github.com/jlengelbrecht/prox-ops/pull/776) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive-ui): add toEntities world rule for LoadBalancer HTTPS](https://github.com/jlengelbrecht/prox-ops/pull/775) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(authentik): update ToolHive OAuth2 redirect URI](https://github.com/jlengelbrecht/prox-ops/pull/774) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive-ui): match LiteLLM network policy pattern exactly](https://github.com/jlengelbrecht/prox-ops/pull/773) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
