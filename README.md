@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(authentik): add ToolHive OAuth2 client env vars for blueprint](https://github.com/jlengelbrecht/prox-ops/pull/768) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-ui): use HTTP for internal Authentik OIDC](https://github.com/jlengelbrecht/prox-ops/pull/767) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-ui): use internal K8s networking for OIDC](https://github.com/jlengelbrecht/prox-ops/pull/766) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-ui): correct dependency names and namespaces](https://github.com/jlengelbrecht/prox-ops/pull/765) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-registry): add emptyDir volume for cache data](https://github.com/jlengelbrecht/prox-ops/pull/764) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive-registry): correct postgres-cluster dependency namespace](https://github.com/jlengelbrecht/prox-ops/pull/763) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
