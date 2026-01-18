@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(ci): improve GPU validation with instant device plugin exec](https://github.com/jlengelbrecht/prox-ops/pull/730) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ci): taint download and template resources, fix bash compatibility](https://github.com/jlengelbrecht/prox-ops/pull/729) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ci): resolve lock race conditions in parallel cattle upgrades](https://github.com/jlengelbrecht/prox-ops/pull/728) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ci): add Terraform lock contention handling for parallel cattle upgrades](https://github.com/jlengelbrecht/prox-ops/pull/727) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ci): properly quote JSONPath expression in Flux validation](https://github.com/jlengelbrecht/prox-ops/pull/726) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai): switch LiteLLM to stable releases and add Renovate tracking](https://github.com/jlengelbrecht/prox-ops/pull/756) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(n8n-mcp): use container port 5678 in NetworkPolicy egress](https://github.com/jlengelbrecht/prox-ops/pull/755) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(n8n-mcp): correct n8n API port from 5678 to 80](https://github.com/jlengelbrecht/prox-ops/pull/754) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(litellm): add n8n MCP server to gateway](https://github.com/jlengelbrecht/prox-ops/pull/753) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(litellm): use Streamable HTTP transport for Graphiti MCP](https://github.com/jlengelbrecht/prox-ops/pull/752) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [canvrno/ProxmoxMCP](https://github.com/canvrno/ProxmoxMCP) - MCP for Proxmox integration in Cline
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus
-- [valkiriaaquatica/provider-proxmox-bpg](https://github.com/valkiriaaquatica/provider-proxmox-bpg) - A Crossplane provider to interact with ProxmoxVE
