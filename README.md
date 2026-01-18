@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(toolhive-registry): add emptyDir volume for cache data](https://github.com/jlengelbrecht/prox-ops/pull/764) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(toolhive-registry): correct postgres-cluster dependency namespace](https://github.com/jlengelbrecht/prox-ops/pull/763) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-ui): add namespace to sourceRef for cross-namespace lookup](https://github.com/jlengelbrecht/prox-ops/pull/762) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive): add required oidcConfig to MCPRemoteProxy resources](https://github.com/jlengelbrecht/prox-ops/pull/761) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive): correct GitRepository sourceRef name](https://github.com/jlengelbrecht/prox-ops/pull/760) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(mcp): add HTTPRoute and VirtualMCPServer gateway](https://github.com/jlengelbrecht/prox-ops/pull/759) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): deploy ToolHive Registry Server (STORY-029-2)](https://github.com/jlengelbrecht/prox-ops/pull/758) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
