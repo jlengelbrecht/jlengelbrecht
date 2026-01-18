@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(toolhive): add required oidcConfig to MCPRemoteProxy resources](https://github.com/jlengelbrecht/prox-ops/pull/761) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive): correct GitRepository sourceRef name](https://github.com/jlengelbrecht/prox-ops/pull/760) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(mcp): add HTTPRoute and VirtualMCPServer gateway](https://github.com/jlengelbrecht/prox-ops/pull/759) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): deploy ToolHive Registry Server (STORY-029-2)](https://github.com/jlengelbrecht/prox-ops/pull/758) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(mcp): deploy ToolHive Kubernetes operator](https://github.com/jlengelbrecht/prox-ops/pull/757) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): switch LiteLLM to stable releases and add Renovate tracking](https://github.com/jlengelbrecht/prox-ops/pull/756) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
