@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(toolhive): use inline OIDC with explicit CA bundle path](https://github.com/jlengelbrecht/prox-ops/pull/784) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive): enable useClusterAuth for MCPRemoteProxy OIDC](https://github.com/jlengelbrecht/prox-ops/pull/783) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive): disable OIDC on MCPRemoteProxy to fix TLS errors](https://github.com/jlengelbrecht/prox-ops/pull/782) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive): rename MCPRemoteProxy to avoid Deployment conflict](https://github.com/jlengelbrecht/prox-ops/pull/781) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-registry): disable upstream registry due to data quality issues](https://github.com/jlengelbrecht/prox-ops/pull/780) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive-registry): use correct api.endpoint config field](https://github.com/jlengelbrecht/prox-ops/pull/779) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
