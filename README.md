@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(toolhive-registry): add leader election RBAC permissions](https://github.com/jlengelbrecht/prox-ops/pull/777) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(toolhive-registry): allow ingress from toolhive-ui](https://github.com/jlengelbrecht/prox-ops/pull/776) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-ui): add toEntities world rule for LoadBalancer HTTPS](https://github.com/jlengelbrecht/prox-ops/pull/775) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(authentik): update ToolHive OAuth2 redirect URI](https://github.com/jlengelbrecht/prox-ops/pull/774) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive-ui): match LiteLLM network policy pattern exactly](https://github.com/jlengelbrecht/prox-ops/pull/773) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive-ui): add toPorts to toServices rule for proper egress](https://github.com/jlengelbrecht/prox-ops/pull/772) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive-ui): add toServices rule for LoadBalancer egress](https://github.com/jlengelbrecht/prox-ops/pull/771) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
