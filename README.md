@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(toolhive): add test MCPServer CRD deployment](https://github.com/jlengelbrecht/prox-ops/pull/786) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive): add insecureAllowHTTP workaround for OIDC bug #3142](https://github.com/jlengelbrecht/prox-ops/pull/785) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive): use inline OIDC with explicit CA bundle path](https://github.com/jlengelbrecht/prox-ops/pull/784) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive): enable useClusterAuth for MCPRemoteProxy OIDC](https://github.com/jlengelbrecht/prox-ops/pull/783) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(toolhive): disable OIDC on MCPRemoteProxy to fix TLS errors](https://github.com/jlengelbrecht/prox-ops/pull/782) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive): rename MCPRemoteProxy to avoid Deployment conflict](https://github.com/jlengelbrecht/prox-ops/pull/781) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
