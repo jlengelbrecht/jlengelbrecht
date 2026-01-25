@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(ai): add Dolphin-Chat InferenceService](https://github.com/jlengelbrecht/prox-ops/pull/900) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [perf(ai): add --enforce-eager for faster vLLM cold start](https://github.com/jlengelbrecht/prox-ops/pull/899) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): use safetensors fallback for vLLM v0.11.0](https://github.com/jlengelbrecht/prox-ops/pull/898) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): resolve vLLM v0.11.0 non-root user compatibility](https://github.com/jlengelbrecht/prox-ops/pull/897) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [perf(ai): upgrade vLLM to v0.11.0 with fastsafetensors optimization](https://github.com/jlengelbrecht/prox-ops/pull/896) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): remove max-num-batched-tokens to fix OOM during profiling](https://github.com/jlengelbrecht/prox-ops/pull/895) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
