@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ai): remove max-num-batched-tokens to fix OOM during profiling](https://github.com/jlengelbrecht/prox-ops/pull/895) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): use safetensors load-format (fastsafetensors not in v0.7.3)](https://github.com/jlengelbrecht/prox-ops/pull/894) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [perf(ai): optimize vLLM model loading with fastsafetensors (80s → &lt;15s)](https://github.com/jlengelbrecht/prox-ops/pull/893) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): increase liveness probe delay to match readiness probe](https://github.com/jlengelbrecht/prox-ops/pull/892) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): increase readiness probe delay for qwen-coder model loading](https://github.com/jlengelbrecht/prox-ops/pull/891) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): use absolute path for vLLM model in offline mode](https://github.com/jlengelbrecht/prox-ops/pull/890) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
