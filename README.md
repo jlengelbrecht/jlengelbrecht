@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(ai): add stable-audio InferenceService (STORY-142 Phase 3)](https://github.com/jlengelbrecht/prox-ops/pull/907) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): use vllm serve --omni for qwen-tts TTS model](https://github.com/jlengelbrecht/prox-ops/pull/906) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): add Qwen3-TTS InferenceService (STORY-142 Phase 3)](https://github.com/jlengelbrecht/prox-ops/pull/905) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [perf(ai): optimize vLLM-Omni cold start (STORY-142b)](https://github.com/jlengelbrecht/prox-ops/pull/904) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): remove unrecognized --omni flag from vLLM-Omni](https://github.com/jlengelbrecht/prox-ops/pull/903) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): add explicit command for vLLM-Omni entrypoint](https://github.com/jlengelbrecht/prox-ops/pull/902) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
