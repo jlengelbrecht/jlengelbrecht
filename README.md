@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ai): remove unsupported fsGroupChangePolicy from InferenceService](https://github.com/jlengelbrecht/prox-ops/pull/887) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(knative): enable features required for KServe InferenceServices](https://github.com/jlengelbrecht/prox-ops/pull/886) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): remove invalid podSpec wrapper from InferenceService](https://github.com/jlengelbrecht/prox-ops/pull/885) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): deploy first KServe InferenceService (Qwen2.5-Coder with vLLM)](https://github.com/jlengelbrecht/prox-ops/pull/884) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(ai): scale Ollama to 0 replicas for KServe migration testing](https://github.com/jlengelbrecht/prox-ops/pull/883) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): correct HuggingFace model repository names](https://github.com/jlengelbrecht/prox-ops/pull/882) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
