@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ai): allow PyPI egress for qwen-tts onnxruntime install](https://github.com/jlengelbrecht/prox-ops/pull/912) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): increase qwen-tts probe delays for pip install](https://github.com/jlengelbrecht/prox-ops/pull/911) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): enable qwen-tts with runtime onnxruntime-gpu install](https://github.com/jlengelbrecht/prox-ops/pull/910) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): add Wan2.2 InferenceService for video generation (STORY-142 Phase 3)](https://github.com/jlengelbrecht/prox-ops/pull/909) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): add FLUX.2-klein InferenceService (STORY-142 Phase 3)](https://github.com/jlengelbrecht/prox-ops/pull/908) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): add stable-audio InferenceService (STORY-142 Phase 3)](https://github.com/jlengelbrecht/prox-ops/pull/907) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
