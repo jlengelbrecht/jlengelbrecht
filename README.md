@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ai): increase liveness probe delay to match readiness probe](https://github.com/jlengelbrecht/prox-ops/pull/892) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): increase readiness probe delay for qwen-coder model loading](https://github.com/jlengelbrecht/prox-ops/pull/891) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): use absolute path for vLLM model in offline mode](https://github.com/jlengelbrecht/prox-ops/pull/890) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): enable vLLM offline mode for qwen-coder InferenceService](https://github.com/jlengelbrecht/prox-ops/pull/889) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): allow HuggingFace egress in qwen-coder NetworkPolicy](https://github.com/jlengelbrecht/prox-ops/pull/888) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): remove unsupported fsGroupChangePolicy from InferenceService](https://github.com/jlengelbrecht/prox-ops/pull/887) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
