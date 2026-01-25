@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [perf(ai): optimize vLLM-Omni cold start (STORY-142b)](https://github.com/jlengelbrecht/prox-ops/pull/904) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): remove unrecognized --omni flag from vLLM-Omni](https://github.com/jlengelbrecht/prox-ops/pull/903) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): add explicit command for vLLM-Omni entrypoint](https://github.com/jlengelbrecht/prox-ops/pull/902) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): add Qwen2.5-Omni-7B multimodal InferenceService (STORY-142 Phase 2)](https://github.com/jlengelbrecht/prox-ops/pull/901) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): add Dolphin-Chat InferenceService](https://github.com/jlengelbrecht/prox-ops/pull/900) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [perf(ai): add --enforce-eager for faster vLLM cold start](https://github.com/jlengelbrecht/prox-ops/pull/899) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
