@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(mcp): add required registry annotations to fetch-test MCPServer](https://github.com/jlengelbrecht/prox-ops/pull/787) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(toolhive): add test MCPServer CRD deployment](https://github.com/jlengelbrecht/prox-ops/pull/786) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive): add insecureAllowHTTP workaround for OIDC bug #3142](https://github.com/jlengelbrecht/prox-ops/pull/785) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive): use inline OIDC with explicit CA bundle path](https://github.com/jlengelbrecht/prox-ops/pull/784) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(toolhive): enable useClusterAuth for MCPRemoteProxy OIDC](https://github.com/jlengelbrecht/prox-ops/pull/783) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai): correct HuggingFace model repository names](https://github.com/jlengelbrecht/prox-ops/pull/882) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): update model cache with 7 new vLLM-Omni compatible models](https://github.com/jlengelbrecht/prox-ops/pull/881) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai): skip Llama-3.1-8B download pending Meta approval](https://github.com/jlengelbrecht/prox-ops/pull/880) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai): add initContainer to fix PVC permissions for non-root user](https://github.com/jlengelbrecht/prox-ops/pull/879) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai): add /tmp/.local/bin to PATH for huggingface-cli](https://github.com/jlengelbrecht/prox-ops/pull/878) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
+- [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive makes deploying MCP servers easy, secure and fun
 - [canvrno/ProxmoxMCP](https://github.com/canvrno/ProxmoxMCP) - MCP for Proxmox integration in Cline
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
-- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
