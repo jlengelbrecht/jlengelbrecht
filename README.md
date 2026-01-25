@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ai): remove invalid podSpec wrapper from InferenceService](https://github.com/jlengelbrecht/prox-ops/pull/885) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): deploy first KServe InferenceService (Qwen2.5-Coder with vLLM)](https://github.com/jlengelbrecht/prox-ops/pull/884) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(ai): scale Ollama to 0 replicas for KServe migration testing](https://github.com/jlengelbrecht/prox-ops/pull/883) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): correct HuggingFace model repository names](https://github.com/jlengelbrecht/prox-ops/pull/882) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): update model cache with 7 new vLLM-Omni compatible models](https://github.com/jlengelbrecht/prox-ops/pull/881) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): skip Llama-3.1-8B download pending Meta approval](https://github.com/jlengelbrecht/prox-ops/pull/880) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
