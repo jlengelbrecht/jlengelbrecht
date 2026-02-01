@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ai/voice-bridge): replace Pipecat OpenAI services with custom httpx](https://github.com/jlengelbrecht/prox-ops/pull/1015) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai/voice-bridge): use FastAPIWebsocketParams for Pipecat 0.0.48](https://github.com/jlengelbrecht/prox-ops/pull/1014) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai/voice-bridge): correct Pipecat 0.0.48 imports and add custom STT](https://github.com/jlengelbrecht/prox-ops/pull/1013) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(network): expose voice-bridge via Cloudflare Tunnel](https://github.com/jlengelbrecht/prox-ops/pull/1012) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai/moltbot): allow egress to voice-bridge](https://github.com/jlengelbrecht/prox-ops/pull/1011) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/voice-bridge): use disk for /tmp volume](https://github.com/jlengelbrecht/prox-ops/pull/1010) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/voice-bridge): use disk storage for pip packages](https://github.com/jlengelbrecht/prox-ops/pull/1009) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/voice-bridge): increase tmpfs limits for pip packages](https://github.com/jlengelbrecht/prox-ops/pull/1008) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
