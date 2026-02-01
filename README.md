@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(knative): add scale-to-zero-pod-retention-period for cold-start models](https://github.com/jlengelbrecht/prox-ops/pull/1018) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai/voice-bridge): correct pipeline order for greeting TTS](https://github.com/jlengelbrecht/prox-ops/pull/1017) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai/voice-bridge): remove manual StartFrame creation](https://github.com/jlengelbrecht/prox-ops/pull/1016) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai/voice-bridge): replace Pipecat OpenAI services with custom httpx](https://github.com/jlengelbrecht/prox-ops/pull/1015) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai/voice-bridge): use FastAPIWebsocketParams for Pipecat 0.0.48](https://github.com/jlengelbrecht/prox-ops/pull/1014) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/voice-bridge): correct Pipecat 0.0.48 imports and add custom STT](https://github.com/jlengelbrecht/prox-ops/pull/1013) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
