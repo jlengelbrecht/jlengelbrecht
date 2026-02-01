@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(ai): add sox dependency to qwen-tts startup](https://github.com/jlengelbrecht/prox-ops/pull/913) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): allow PyPI egress for qwen-tts onnxruntime install](https://github.com/jlengelbrecht/prox-ops/pull/912) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): increase qwen-tts probe delays for pip install](https://github.com/jlengelbrecht/prox-ops/pull/911) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): enable qwen-tts with runtime onnxruntime-gpu install](https://github.com/jlengelbrecht/prox-ops/pull/910) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): add Wan2.2 InferenceService for video generation (STORY-142 Phase 3)](https://github.com/jlengelbrecht/prox-ops/pull/909) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai/voice-bridge): comprehensive security hardening phase 1](https://github.com/jlengelbrecht/prox-ops/pull/1006) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai/voice-bridge): use constant-time comparison for API key validation](https://github.com/jlengelbrecht/prox-ops/pull/1005) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai/voice-bridge): add comprehensive security hardening](https://github.com/jlengelbrecht/prox-ops/pull/1004) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai/voice-bridge): remove conflicting websockets version](https://github.com/jlengelbrecht/prox-ops/pull/1003) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai/voice-bridge): use multi-arch python image for amd64 support](https://github.com/jlengelbrecht/prox-ops/pull/1002) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let&#39;s Encrypt support for Ubiquiti UniFi OS
+- [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio) - A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS &amp; VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription.
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 - [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) - Visual testing tool for MCP servers
-- [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive makes deploying MCP servers easy, secure and fun
-- [canvrno/ProxmoxMCP](https://github.com/canvrno/ProxmoxMCP) - MCP for Proxmox integration in Cline
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
