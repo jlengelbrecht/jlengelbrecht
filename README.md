@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(ai/voice-bridge): comprehensive security hardening phase 1](https://github.com/jlengelbrecht/prox-ops/pull/1006) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/voice-bridge): use constant-time comparison for API key validation](https://github.com/jlengelbrecht/prox-ops/pull/1005) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai/voice-bridge): add comprehensive security hardening](https://github.com/jlengelbrecht/prox-ops/pull/1004) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/voice-bridge): remove conflicting websockets version](https://github.com/jlengelbrecht/prox-ops/pull/1003) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/voice-bridge): use multi-arch python image for amd64 support](https://github.com/jlengelbrecht/prox-ops/pull/1002) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(network): expose voice-bridge via Cloudflare Tunnel](https://github.com/jlengelbrecht/prox-ops/pull/1012) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai/moltbot): allow egress to voice-bridge](https://github.com/jlengelbrecht/prox-ops/pull/1011) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai/voice-bridge): use disk for /tmp volume](https://github.com/jlengelbrecht/prox-ops/pull/1010) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai/voice-bridge): use disk storage for pip packages](https://github.com/jlengelbrecht/prox-ops/pull/1009) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ai/voice-bridge): increase tmpfs limits for pip packages](https://github.com/jlengelbrecht/prox-ops/pull/1008) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
