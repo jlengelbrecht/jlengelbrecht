@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ai/voice-bridge): enable audio passthrough and improve TTS handling](https://github.com/jlengelbrecht/prox-ops/pull/1025) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai/litellm): add audio_speech mode for TTS routing](https://github.com/jlengelbrecht/prox-ops/pull/1024) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai/kserve): use correct language code for qwen-tts](https://github.com/jlengelbrecht/prox-ops/pull/1023) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai/kserve): replace vLLM-Omni with custom qwen-tts-api container](https://github.com/jlengelbrecht/prox-ops/pull/1022) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai/voice-bridge): buffer WebSocket messages for Pipecat replay](https://github.com/jlengelbrecht/prox-ops/pull/1021) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/voice-bridge): extract Twilio streamSid from start event](https://github.com/jlengelbrecht/prox-ops/pull/1020) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
