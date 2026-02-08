@@ -81,27 +81,27 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT) - 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
-- [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers) - Repo for Ark server containers 
-- [USA-ROLEPLAY/banned](https://github.com/USA-ROLEPLAY/banned) - List of banned player -->
+- [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers) - Repo for Ark server containers  -->
 
 ## 🌱 My latest projects
 
+- [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT) - 
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
-- [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) - 
 
 ## 🔨 My recent Pull Requests
 
-- [fix(ai/voice-bridge): enable audio passthrough and improve TTS handling](https://github.com/jlengelbrecht/prox-ops/pull/1025) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/litellm): add audio_speech mode for TTS routing](https://github.com/jlengelbrecht/prox-ops/pull/1024) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/kserve): use correct language code for qwen-tts](https://github.com/jlengelbrecht/prox-ops/pull/1023) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai/kserve): replace vLLM-Omni with custom qwen-tts-api container](https://github.com/jlengelbrecht/prox-ops/pull/1022) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai/voice-bridge): buffer WebSocket messages for Pipecat replay](https://github.com/jlengelbrecht/prox-ops/pull/1021) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(web): add GlucoseHero component for dashboard](https://github.com/jlengelbrecht/GlycemicGPT/pull/20) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [ci(docker): add release notes update and image cleanup](https://github.com/jlengelbrecht/GlycemicGPT/pull/18) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [ci(docker): add container build and push workflow for ghcr.io](https://github.com/jlengelbrecht/GlycemicGPT/pull/16) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [ci(autolabeler): enhance PR labeling with JSON config](https://github.com/jlengelbrecht/GlycemicGPT/pull/14) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [style: add emojis to changelog sections and improve formatting](https://github.com/jlengelbrecht/GlycemicGPT/pull/13) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
