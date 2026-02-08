@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: add AI insight card and unified insights feed (Story 5.7)](https://github.com/jlengelbrecht/GlycemicGPT/pull/44) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(api): add pre-validation safety layer for AI suggestions (Story 5.6)](https://github.com/jlengelbrecht/GlycemicGPT/pull/42) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(api): add correction factor analysis with ISF suggestions (Story 5.5)](https://github.com/jlengelbrecht/GlycemicGPT/pull/40) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(api): add meal pattern analysis with carb ratio suggestions (Story 5.4)](https://github.com/jlengelbrecht/GlycemicGPT/pull/38) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(api): add daily brief generation (Story 5.3)](https://github.com/jlengelbrecht/GlycemicGPT/pull/36) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(api): add BYOAI abstraction layer (Story 5.2)](https://github.com/jlengelbrecht/GlycemicGPT/pull/34) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
