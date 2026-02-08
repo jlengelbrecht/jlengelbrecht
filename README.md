@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: add real-time glucose updates via SSE (Story 4.5)](https://github.com/jlengelbrecht/GlycemicGPT/pull/26) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(web): add TimeInRangeBar component for dashboard](https://github.com/jlengelbrecht/GlycemicGPT/pull/24) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(web): add TrendArrow component for reusable trend display](https://github.com/jlengelbrecht/GlycemicGPT/pull/22) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(web): add GlucoseHero component for dashboard](https://github.com/jlengelbrecht/GlycemicGPT/pull/20) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [ci(docker): add release notes update and image cleanup](https://github.com/jlengelbrecht/GlycemicGPT/pull/18) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [ci(docker): add container build and push workflow for ghcr.io](https://github.com/jlengelbrecht/GlycemicGPT/pull/16) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
