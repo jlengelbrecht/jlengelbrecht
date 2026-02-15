@@ -97,7 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat: BLE debug instrumentation and mobile dev environment](https://github.com/jlengelbrecht/GlycemicGPT/pull/204) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat: BLE debug instrumentation, dev environment, and connection stability](https://github.com/jlengelbrecht/GlycemicGPT/pull/204) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix: implement EC-JPAKE authentication for Tandem pump BLE pairing](https://github.com/jlengelbrecht/GlycemicGPT/pull/202) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix: correct BLE authentication protocol to match Tandem pump spec](https://github.com/jlengelbrecht/GlycemicGPT/pull/200) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix: add BLE runtime permission requests to prevent pump scan crash](https://github.com/jlengelbrecht/GlycemicGPT/pull/198) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
