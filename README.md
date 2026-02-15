@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix: correct BLE status response opcodes and parser byte layouts](https://github.com/jlengelbrecht/GlycemicGPT/pull/206) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat: BLE debug instrumentation, dev environment, and connection stability](https://github.com/jlengelbrecht/GlycemicGPT/pull/204) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix: implement EC-JPAKE authentication for Tandem pump BLE pairing](https://github.com/jlengelbrecht/GlycemicGPT/pull/202) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix: correct BLE authentication protocol to match Tandem pump spec](https://github.com/jlengelbrecht/GlycemicGPT/pull/200) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix: add BLE runtime permission requests to prevent pump scan crash](https://github.com/jlengelbrecht/GlycemicGPT/pull/198) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [fix: prevent cleartext requests to localhost when server URL not configured](https://github.com/jlengelbrecht/GlycemicGPT/pull/196) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
