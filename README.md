@@ -81,7 +81,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT) - 
+- [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT) - 💉 your on-call endo at home 🩸
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
@@ -89,7 +89,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🌱 My latest projects
 
-- [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT) - 
+- [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT) - 💉 your on-call endo at home 🩸
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat: add AI insight card and unified insights feed (Story 5.7)](https://github.com/jlengelbrecht/GlycemicGPT/pull/44) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(api): add pre-validation safety layer for AI suggestions (Story 5.6)](https://github.com/jlengelbrecht/GlycemicGPT/pull/42) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(api): add correction factor analysis with ISF suggestions (Story 5.5)](https://github.com/jlengelbrecht/GlycemicGPT/pull/40) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(api): add meal pattern analysis with carb ratio suggestions (Story 5.4)](https://github.com/jlengelbrecht/GlycemicGPT/pull/38) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(api): add daily brief generation (Story 5.3)](https://github.com/jlengelbrecht/GlycemicGPT/pull/36) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix: implement EC-JPAKE authentication for Tandem pump BLE pairing](https://github.com/jlengelbrecht/GlycemicGPT/pull/202) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix: correct BLE authentication protocol to match Tandem pump spec](https://github.com/jlengelbrecht/GlycemicGPT/pull/200) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix: add BLE runtime permission requests to prevent pump scan crash](https://github.com/jlengelbrecht/GlycemicGPT/pull/198) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix: prevent cleartext requests to localhost when server URL not configured](https://github.com/jlengelbrecht/GlycemicGPT/pull/196) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat: security hardening with token refresh, rate limiting, and TLS (Story 16.12)](https://github.com/jlengelbrecht/GlycemicGPT/pull/194) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
