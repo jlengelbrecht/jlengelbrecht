@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix: correct BLE status response opcodes and parser byte layouts](https://github.com/jlengelbrecht/GlycemicGPT/pull/206) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat: BLE debug instrumentation, dev environment, and connection stability](https://github.com/jlengelbrecht/GlycemicGPT/pull/204) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [fix: implement EC-JPAKE authentication for Tandem pump BLE pairing](https://github.com/jlengelbrecht/GlycemicGPT/pull/202) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [fix: correct BLE authentication protocol to match Tandem pump spec](https://github.com/jlengelbrecht/GlycemicGPT/pull/200) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [fix: add BLE runtime permission requests to prevent pump scan crash](https://github.com/jlengelbrecht/GlycemicGPT/pull/198) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [chore: promote develop to main (Renovate config alignment)](https://github.com/jlengelbrecht/GlycemicGPT/pull/274) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix: align Renovate config with develop-first branching strategy](https://github.com/jlengelbrecht/GlycemicGPT/pull/273) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [chore: promote develop to main -- onboarding, markdown, badges](https://github.com/jlengelbrecht/GlycemicGPT/pull/271) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix: harden onboarding flow and add markdown rendering for AI responses](https://github.com/jlengelbrecht/GlycemicGPT/pull/270) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix(openclaw): revert to token auth with device pairing disabled](https://github.com/jlengelbrecht/prox-ops/pull/1081) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
