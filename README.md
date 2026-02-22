@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: add custom alert sounds and silent mode override](https://github.com/jlengelbrecht/GlycemicGPT/pull/278) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix: eliminate alert notification spam for sustained high glucose](https://github.com/jlengelbrecht/GlycemicGPT/pull/277) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix: preserve mobile session on transient errors and request notification permission](https://github.com/jlengelbrecht/GlycemicGPT/pull/276) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [chore: promote develop to main (Renovate config alignment)](https://github.com/jlengelbrecht/GlycemicGPT/pull/274) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix: align Renovate config with develop-first branching strategy](https://github.com/jlengelbrecht/GlycemicGPT/pull/273) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [chore: promote develop to main -- onboarding, markdown, badges](https://github.com/jlengelbrecht/GlycemicGPT/pull/271) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
