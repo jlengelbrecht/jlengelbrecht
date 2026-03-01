@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: Epic 29 -- app icons and branding](https://github.com/jlengelbrecht/GlycemicGPT/pull/323) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat: Story 28.7 -- device binding &amp; API security foundation](https://github.com/jlengelbrecht/GlycemicGPT/pull/322) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix: Story 28.12 -- code quality audit (secure UUID, exception handling, resource leaks)](https://github.com/jlengelbrecht/GlycemicGPT/pull/321) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat: production security gates, dependency scanning, and documentation](https://github.com/jlengelbrecht/GlycemicGPT/pull/316) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat: production security gates, dependency scanning, and documentation](https://github.com/jlengelbrecht/GlycemicGPT/pull/315) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat: automated DAST and auth flow penetration testing (story 28.11)](https://github.com/jlengelbrecht/GlycemicGPT/pull/314) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
