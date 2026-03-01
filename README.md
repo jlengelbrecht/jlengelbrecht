@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [refactor: extract pump interfaces for plugin architecture (Phase 1)](https://github.com/jlengelbrecht/GlycemicGPT/pull/279) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat: add custom alert sounds and silent mode override](https://github.com/jlengelbrecht/GlycemicGPT/pull/278) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [fix: eliminate alert notification spam for sustained high glucose](https://github.com/jlengelbrecht/GlycemicGPT/pull/277) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [fix: preserve mobile session on transient errors and request notification permission](https://github.com/jlengelbrecht/GlycemicGPT/pull/276) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [chore: promote develop to main (Renovate config alignment)](https://github.com/jlengelbrecht/GlycemicGPT/pull/274) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat: Story 28.7 -- device binding &amp; API security foundation](https://github.com/jlengelbrecht/GlycemicGPT/pull/322) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix: Story 28.12 -- code quality audit (secure UUID, exception handling, resource leaks)](https://github.com/jlengelbrecht/GlycemicGPT/pull/321) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat: production security gates, dependency scanning, and documentation](https://github.com/jlengelbrecht/GlycemicGPT/pull/316) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat: production security gates, dependency scanning, and documentation](https://github.com/jlengelbrecht/GlycemicGPT/pull/315) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat: automated DAST and auth flow penetration testing (story 28.11)](https://github.com/jlengelbrecht/GlycemicGPT/pull/314) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
+- [jurkovic-nikola/OpenLinkHub](https://github.com/jurkovic-nikola/OpenLinkHub) - Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system metrics, as well as keyboards, mice, headsets via a web dashboard.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
+- [elfhosted/newtarr](https://github.com/elfhosted/newtarr) - A sane fork of Huntarr v6.6.3 from simpler times
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
-- [kchristensen/udm-le](https://github.com/kchristensen/udm-le) - Let&#39;s Encrypt support for Ubiquiti UniFi OS
-- [FranckyB/Voice-Clone-Studio](https://github.com/FranckyB/Voice-Clone-Studio) - A Gradio-based web UI for voice cloning and voice design, powered by Qwen3-TTS &amp; VibeVoice.  Can use Whisper or VibeVoice-ASR for automatic transcription.
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
