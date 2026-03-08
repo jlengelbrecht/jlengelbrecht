@@ -97,7 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(export): fix all-data export crash, remove redundant Reports page](https://github.com/jlengelbrecht/GlycemicGPT/pull/357) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(web): fix all-data export, add clinical report generator](https://github.com/jlengelbrecht/GlycemicGPT/pull/357) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat: Reports page with daily timeline and date-range API](https://github.com/jlengelbrecht/GlycemicGPT/pull/356) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat: full-platform visual polish with light/dark theme support](https://github.com/jlengelbrecht/GlycemicGPT/pull/355) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(mobile): 5-bucket TIR display and CGM stats with active %](https://github.com/jlengelbrecht/GlycemicGPT/pull/354) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
