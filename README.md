@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: Reports page with daily timeline and date-range API](https://github.com/jlengelbrecht/GlycemicGPT/pull/356) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat: full-platform visual polish with light/dark theme support](https://github.com/jlengelbrecht/GlycemicGPT/pull/355) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(mobile): 5-bucket TIR display and CGM stats with active %](https://github.com/jlengelbrecht/GlycemicGPT/pull/354) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(mobile): remove AGP chart, add retention-aware period options](https://github.com/jlengelbrecht/GlycemicGPT/pull/353) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(mobile): remove AGP chart, add retention-aware period options](https://github.com/jlengelbrecht/GlycemicGPT/pull/352) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat: plugin-aware bolus category system with editable labels](https://github.com/jlengelbrecht/GlycemicGPT/pull/351) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
