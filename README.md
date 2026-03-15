@@ -97,7 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(wear): WFF watchface source module and validation fixes](https://github.com/jlengelbrecht/GlycemicGPT/pull/371) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix(wear): WFF APK validation, watch detection, and push pipeline fixes](https://github.com/jlengelbrecht/GlycemicGPT/pull/371) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix(wear): Watch Face Push validation token via DwfValidatorFactory](https://github.com/jlengelbrecht/GlycemicGPT/pull/370) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix(wear): Watch Face Push validation token via DwfValidatorFactory](https://github.com/jlengelbrecht/GlycemicGPT/pull/367) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [docs(wear): update architecture docs and dev scripts for Epic 32](https://github.com/jlengelbrecht/GlycemicGPT/pull/366) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
