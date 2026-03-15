@@ -81,8 +81,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT) - 💉 your on-call endo at home 🩸
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
+- [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT) - 💉 your on-call endo at home 🩸
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers) - Repo for Ark server containers  -->
@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(web): fix all-data export, add clinical report generator](https://github.com/jlengelbrecht/GlycemicGPT/pull/357) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat: Reports page with daily timeline and date-range API](https://github.com/jlengelbrecht/GlycemicGPT/pull/356) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat: full-platform visual polish with light/dark theme support](https://github.com/jlengelbrecht/GlycemicGPT/pull/355) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(mobile): 5-bucket TIR display and CGM stats with active %](https://github.com/jlengelbrecht/GlycemicGPT/pull/354) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(mobile): remove AGP chart, add retention-aware period options](https://github.com/jlengelbrecht/GlycemicGPT/pull/353) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(wear): WFF watchface source module and validation fixes](https://github.com/jlengelbrecht/GlycemicGPT/pull/371) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix(wear): Watch Face Push validation token via DwfValidatorFactory](https://github.com/jlengelbrecht/GlycemicGPT/pull/370) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [fix(wear): Watch Face Push validation token via DwfValidatorFactory](https://github.com/jlengelbrecht/GlycemicGPT/pull/367) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [docs(wear): update architecture docs and dev scripts for Epic 32](https://github.com/jlengelbrecht/GlycemicGPT/pull/366) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(wear): watch-to-phone AI chat and alert dismiss (Story 32.8)](https://github.com/jlengelbrecht/GlycemicGPT/pull/365) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [iceteaSA/unifi-ptz-better-patrol](https://github.com/iceteaSA/unifi-ptz-better-patrol) - Motion-aware PTZ camera patrol system for UniFi Protect. Auto-tracking, schedule support, manual control detection. Runs on UDM/UDR/UNVR.
 - [jurkovic-nikola/OpenLinkHub](https://github.com/jurkovic-nikola/OpenLinkHub) - Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system metrics, as well as keyboards, mice, headsets via a web dashboard.
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
-- [elfhosted/newtarr](https://github.com/elfhosted/newtarr) - A sane fork of Huntarr v6.6.3 from simpler times
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
-- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
