@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(wear): watch face buttons, interactive graph, voice chat, and chat relay fix](https://github.com/jlengelbrecht/GlycemicGPT/pull/379) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(wear): add complication tap actions for Alerts and AI Chat](https://github.com/jlengelbrecht/GlycemicGPT/pull/378) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(wear): watch face graph rendering, variant cleanup, and complication binding fix](https://github.com/jlengelbrecht/GlycemicGPT/pull/377) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(wear): graph rendering fixes and watch face variant cleanup](https://github.com/jlengelbrecht/GlycemicGPT/pull/376) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(wear): watch APK self-update via phone app (Story 32.12)](https://github.com/jlengelbrecht/GlycemicGPT/pull/374) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [fix(wear): WFF APK validation, watch detection, and push pipeline fixes](https://github.com/jlengelbrecht/GlycemicGPT/pull/371) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
