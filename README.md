@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(chat): add text-to-speech for AI responses on phone and watch](https://github.com/jlengelbrecht/GlycemicGPT/pull/381) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(wear): watch face buttons, interactive graph, voice chat, and chat relay fix](https://github.com/jlengelbrecht/GlycemicGPT/pull/380) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(wear): watch face buttons, interactive graph, voice chat, and chat relay fix](https://github.com/jlengelbrecht/GlycemicGPT/pull/379) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(wear): add complication tap actions for Alerts and AI Chat](https://github.com/jlengelbrecht/GlycemicGPT/pull/378) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(wear): watch face graph rendering, variant cleanup, and complication binding fix](https://github.com/jlengelbrecht/GlycemicGPT/pull/377) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(wear): graph rendering fixes and watch face variant cleanup](https://github.com/jlengelbrecht/GlycemicGPT/pull/376) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
