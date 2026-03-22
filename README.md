@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(wear): add complication tap actions for Alerts and AI Chat](https://github.com/jlengelbrecht/GlycemicGPT/pull/378) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(wear): watch face graph rendering, variant cleanup, and complication binding fix](https://github.com/jlengelbrecht/GlycemicGPT/pull/377) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(wear): graph rendering fixes and watch face variant cleanup](https://github.com/jlengelbrecht/GlycemicGPT/pull/376) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(wear): watch APK self-update via phone app (Story 32.12)](https://github.com/jlengelbrecht/GlycemicGPT/pull/374) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [fix(wear): WFF APK validation, watch detection, and push pipeline fixes](https://github.com/jlengelbrecht/GlycemicGPT/pull/371) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [fix(wear): Watch Face Push validation token via DwfValidatorFactory](https://github.com/jlengelbrecht/GlycemicGPT/pull/370) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [fix(wear): Watch Face Push validation token via DwfValidatorFactory](https://github.com/jlengelbrecht/GlycemicGPT/pull/367) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [docs(wear): update architecture docs and dev scripts for Epic 32](https://github.com/jlengelbrecht/GlycemicGPT/pull/366) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(wear): watch-to-phone AI chat and alert dismiss (Story 32.8)](https://github.com/jlengelbrecht/GlycemicGPT/pull/365) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
@@ -109,4 +109,4 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [iceteaSA/unifi-ptz-better-patrol](https://github.com/iceteaSA/unifi-ptz-better-patrol) - Motion-aware PTZ camera patrol system for UniFi Protect. Auto-tracking, schedule support, manual control detection. Runs on UDM/UDR/UNVR.
 - [jurkovic-nikola/OpenLinkHub](https://github.com/jurkovic-nikola/OpenLinkHub) - Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system metrics, as well as keyboards, mice, headsets via a web dashboard.
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities.
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
