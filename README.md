@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(alerts): eliminate SSE reconnect storm in AlertStreamService](https://github.com/jlengelbrecht/GlycemicGPT/pull/382) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(chat): add text-to-speech for AI responses on phone and watch](https://github.com/jlengelbrecht/GlycemicGPT/pull/381) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(wear): watch face buttons, interactive graph, voice chat, and chat relay fix](https://github.com/jlengelbrecht/GlycemicGPT/pull/380) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(wear): watch face buttons, interactive graph, voice chat, and chat relay fix](https://github.com/jlengelbrecht/GlycemicGPT/pull/379) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(wear): add complication tap actions for Alerts and AI Chat](https://github.com/jlengelbrecht/GlycemicGPT/pull/378) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(security): API security hardening with IDOR, SSRF, and rate limiting tests (Story 35.11a)](https://github.com/jlengelbrecht/GlycemicGPT/pull/392) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(ai): Knowledge Base viewer with document list, preview, and management (Story 35.10)](https://github.com/jlengelbrecht/GlycemicGPT/pull/391) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(ai): AI Research Pipeline with configurable sources (Story 35.12)](https://github.com/jlengelbrecht/GlycemicGPT/pull/390) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(ai): RAG infrastructure with pgvector, fastembed, and clinical knowledge (Story 35.9)](https://github.com/jlengelbrecht/GlycemicGPT/pull/389) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [feat(ai): conversation memory for multi-turn AI chat (Story 35.3)](https://github.com/jlengelbrecht/GlycemicGPT/pull/388) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
