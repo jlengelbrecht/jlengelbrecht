@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(security): auto-create GitHub Issues from security findings (Story 40.1)](https://github.com/jlengelbrecht/GlycemicGPT/pull/393) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(security): API security hardening with IDOR, SSRF, and rate limiting tests (Story 35.11a)](https://github.com/jlengelbrecht/GlycemicGPT/pull/392) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(ai): Knowledge Base viewer with document list, preview, and management (Story 35.10)](https://github.com/jlengelbrecht/GlycemicGPT/pull/391) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(ai): AI Research Pipeline with configurable sources (Story 35.12)](https://github.com/jlengelbrecht/GlycemicGPT/pull/390) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 - [feat(ai): RAG infrastructure with pgvector, fastembed, and clinical knowledge (Story 35.9)](https://github.com/jlengelbrecht/GlycemicGPT/pull/389) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(ai): conversation memory for multi-turn AI chat (Story 35.3)](https://github.com/jlengelbrecht/GlycemicGPT/pull/388) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
