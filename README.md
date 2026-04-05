@@ -81,27 +81,27 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Built by patients who got tired of waiting
+- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
+- [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT) - 💉 your on-call endo at home 🩸
-- [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
-- [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
-- [USA-ROLEPLAY/Ark_Servers](https://github.com/USA-ROLEPLAY/Ark_Servers) - Repo for Ark server containers  -->
+- [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container -->
 
 ## 🌱 My latest projects
 
-- [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT) - 💉 your on-call endo at home 🩸
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
+- [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) - 
 
 ## 🔨 My recent Pull Requests
 
-- [feat(security): full suite issue lifecycle management (Story 40.2 &#43; 40.3)](https://github.com/jlengelbrecht/GlycemicGPT/pull/398) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(security): auto-create GitHub Issues from security findings (Story 40.1)](https://github.com/jlengelbrecht/GlycemicGPT/pull/393) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(security): API security hardening with IDOR, SSRF, and rate limiting tests (Story 35.11a)](https://github.com/jlengelbrecht/GlycemicGPT/pull/392) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(ai): Knowledge Base viewer with document list, preview, and management (Story 35.10)](https://github.com/jlengelbrecht/GlycemicGPT/pull/391) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
-- [feat(ai): AI Research Pipeline with configurable sources (Story 35.12)](https://github.com/jlengelbrecht/GlycemicGPT/pull/390) on [jlengelbrecht/GlycemicGPT](https://github.com/jlengelbrecht/GlycemicGPT)
+- [chore: new slogan, align merge docs, fix changelog heading format](https://github.com/GlycemicGPT/GlycemicGPT/pull/477) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/474) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(ci): contributor credits in versioned releases, soft-fail wear APK](https://github.com/GlycemicGPT/GlycemicGPT/pull/473) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [test: verify direct promotion works](https://github.com/GlycemicGPT/GlycemicGPT/pull/472) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/467) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
