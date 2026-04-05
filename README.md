@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(health): deploy GlycemicGPT diabetes management platform](https://github.com/jlengelbrecht/prox-ops/pull/1086) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore: new slogan, align merge docs, fix changelog heading format](https://github.com/GlycemicGPT/GlycemicGPT/pull/477) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/474) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(ci): contributor credits in versioned releases, soft-fail wear APK](https://github.com/GlycemicGPT/GlycemicGPT/pull/473) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [test: verify direct promotion works](https://github.com/GlycemicGPT/GlycemicGPT/pull/472) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/467) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
