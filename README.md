@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix: remove CNAME to test GitHub Pages without custom domain](https://github.com/GlycemicGPT/website/pull/7) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 - [fix(ci): idempotent fallback release on workflow rerun](https://github.com/GlycemicGPT/GlycemicGPT/pull/484) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [fix(ci): idempotent fallback release on workflow rerun](https://github.com/GlycemicGPT/GlycemicGPT/pull/483) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/482) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [fix(ci): smart versioning with fallback patch release for every promotion](https://github.com/GlycemicGPT/GlycemicGPT/pull/481) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat: Lighthouse PR comments and CONTRIBUTING.md rewrite](https://github.com/GlycemicGPT/website/pull/5) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 
 ## ⭐ Recent Stars
 
