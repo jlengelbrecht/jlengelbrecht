@@ -81,10 +81,10 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Built by patients who got tired of waiting
 - [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
 - [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container -->
 
 ## 🌱 My latest projects
@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(health): deploy GlycemicGPT diabetes management platform](https://github.com/jlengelbrecht/prox-ops/pull/1086) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [chore: new slogan, align merge docs, fix changelog heading format](https://github.com/GlycemicGPT/GlycemicGPT/pull/477) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/474) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(ci): contributor credits in versioned releases, soft-fail wear APK](https://github.com/GlycemicGPT/GlycemicGPT/pull/473) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [test: verify direct promotion works](https://github.com/GlycemicGPT/GlycemicGPT/pull/472) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix(health): pin GlycemicGPT images to v0.3.0, use semver tracking](https://github.com/jlengelbrecht/prox-ops/pull/1090) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(health): remove invalid monitoring field from CNPG Cluster](https://github.com/jlengelbrecht/prox-ops/pull/1089) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(health): add SECRET_DOMAIN variable substitution for GlycemicGPT](https://github.com/jlengelbrecht/prox-ops/pull/1088) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(health): correct dependsOn namespace references for GlycemicGPT](https://github.com/jlengelbrecht/prox-ops/pull/1087) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [test: lighthouse CI validation](https://github.com/GlycemicGPT/website/pull/1) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 
 ## ⭐ Recent Stars
 
