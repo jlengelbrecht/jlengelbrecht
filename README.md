@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ci): smart versioning with fallback patch release for every promotion](https://github.com/GlycemicGPT/GlycemicGPT/pull/481) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat: Lighthouse PR comments and CONTRIBUTING.md rewrite](https://github.com/GlycemicGPT/website/pull/5) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 - [fix(health): bump GlycemicGPT images to 0.4.0](https://github.com/jlengelbrecht/prox-ops/pull/1091) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/478) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [chore: clean up README, validate CI pipeline](https://github.com/GlycemicGPT/website/pull/3) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
-- [fix(health): pin GlycemicGPT images to v0.3.0, use semver tracking](https://github.com/jlengelbrecht/prox-ops/pull/1090) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(health): remove invalid monitoring field from CNPG Cluster](https://github.com/jlengelbrecht/prox-ops/pull/1089) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
