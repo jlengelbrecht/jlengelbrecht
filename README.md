@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: add Discord community link to header and footer](https://github.com/GlycemicGPT/website/pull/20) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 - [fix: mobile glucose chart layout overflow and clipped bolus labels](https://github.com/GlycemicGPT/website/pull/18) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 - [fix(deps): remove schedule restrictions and fix timezone for Renovate](https://github.com/GlycemicGPT/website/pull/17) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 - [chore(deps): enable full Renovate automerge with merge bot approval](https://github.com/GlycemicGPT/website/pull/16) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 - [ci: upgrade GitHub Actions to Node.js 24 and add Renovate workflow](https://github.com/GlycemicGPT/website/pull/14) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
-- [fix(ai): update test assertions for sidecar API key auth change](https://github.com/GlycemicGPT/GlycemicGPT/pull/510) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
