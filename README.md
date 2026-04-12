@@ -81,10 +81,10 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone
 - [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
+- [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container -->
 
 ## 🌱 My latest projects
@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix: close CODEOWNERS self-review loophole, align with governance](https://github.com/GlycemicGPT/GlycemicGPT/pull/485) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat: add logo, favicons, and AI chat demo section](https://github.com/GlycemicGPT/website/pull/8) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
-- [fix: remove CNAME to test GitHub Pages without custom domain](https://github.com/GlycemicGPT/website/pull/7) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
-- [fix(ci): idempotent fallback release on workflow rerun](https://github.com/GlycemicGPT/GlycemicGPT/pull/484) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [fix(ci): idempotent fallback release on workflow rerun](https://github.com/GlycemicGPT/GlycemicGPT/pull/483) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix: mobile glucose chart layout overflow and clipped bolus labels](https://github.com/GlycemicGPT/website/pull/18) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
+- [fix(deps): remove schedule restrictions and fix timezone for Renovate](https://github.com/GlycemicGPT/website/pull/17) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
+- [chore(deps): enable full Renovate automerge with merge bot approval](https://github.com/GlycemicGPT/website/pull/16) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
+- [ci: upgrade GitHub Actions to Node.js 24 and add Renovate workflow](https://github.com/GlycemicGPT/website/pull/14) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
+- [fix(ai): update test assertions for sidecar API key auth change](https://github.com/GlycemicGPT/GlycemicGPT/pull/510) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
