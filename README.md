@@ -97,8 +97,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(tools): deploy GlycemicGPT Discord bot](https://github.com/jlengelbrecht/prox-ops/pull/1107) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(network): wire glycemicgpt.org zone for Discord bot](https://github.com/jlengelbrecht/prox-ops/pull/1106) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
