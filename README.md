@@ -82,9 +82,9 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 👷 Check out what I'm currently working on
 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
+- [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
 - [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
-- [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container -->
 
 ## 🌱 My latest projects
@@ -97,11 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [docs(security): add Dependency Auto-Merge Coverage contract](https://github.com/GlycemicGPT/GlycemicGPT/pull/540) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [ci(renovate): add log_level workflow_dispatch input for diagnostic runs](https://github.com/GlycemicGPT/GlycemicGPT/pull/538) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/537) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix(deps): clear OSV-flagged CVEs in lockfiles](https://github.com/GlycemicGPT/GlycemicGPT/pull/535) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix(docs): resolve relative markdown links to absolute URLs](https://github.com/GlycemicGPT/website/pull/31) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 
 ## ⭐ Recent Stars
 
+- [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) - 
+- [EarMaster/AutoSugar](https://github.com/EarMaster/AutoSugar) - AutoSugar is an unofficial Android Auto app for monitoring Nightscout CGM (blood glucose) data while driving.
+- [bewest/rag-nightscout-ecosystem-alignment](https://github.com/bewest/rag-nightscout-ecosystem-alignment) - 
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [iceteaSA/unifi-ptz-better-patrol](https://github.com/iceteaSA/unifi-ptz-better-patrol) - Motion-aware PTZ camera patrol system for UniFi Protect. Auto-tracking, schedule support, manual control detection. Runs on UDM/UDR/UNVR.
-- [jurkovic-nikola/OpenLinkHub](https://github.com/jurkovic-nikola/OpenLinkHub) - Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system metrics, as well as keyboards, mice, headsets via a web dashboard.
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
