@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [ci: address CodeRabbit findings on promotion PR #548](https://github.com/GlycemicGPT/GlycemicGPT/pull/549) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/548) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci: phase 5 -- enable Renovate auto-merge via label-driven workflow](https://github.com/GlycemicGPT/GlycemicGPT/pull/547) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci: phase 4 -- group Renovate PRs by family](https://github.com/GlycemicGPT/GlycemicGPT/pull/546) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci: phase 2 -- fork PR lockdown (CODEOWNERS &#43; Renovate caps)](https://github.com/GlycemicGPT/GlycemicGPT/pull/545) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [ci: path-filter ci.yml component test/lint jobs](https://github.com/GlycemicGPT/GlycemicGPT/pull/544) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
