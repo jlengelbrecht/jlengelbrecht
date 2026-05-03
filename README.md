@@ -81,10 +81,10 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
-- [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container -->
 
 ## 🌱 My latest projects
