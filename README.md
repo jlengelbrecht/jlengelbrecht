@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [ci(security): GitHub Actions supply-chain hygiene](https://github.com/GlycemicGPT/GlycemicGPT/pull/541) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [docs(security): add Dependency Auto-Merge Coverage contract](https://github.com/GlycemicGPT/GlycemicGPT/pull/540) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci(renovate): add log_level workflow_dispatch input for diagnostic runs](https://github.com/GlycemicGPT/GlycemicGPT/pull/538) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/537) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [fix(deps): clear OSV-flagged CVEs in lockfiles](https://github.com/GlycemicGPT/GlycemicGPT/pull/535) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [fix(docs): resolve relative markdown links to absolute URLs](https://github.com/GlycemicGPT/website/pull/31) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 
 ## ⭐ Recent Stars
 
