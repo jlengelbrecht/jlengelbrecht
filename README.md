@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [ci: phase 5 -- enable Renovate auto-merge via label-driven workflow](https://github.com/GlycemicGPT/GlycemicGPT/pull/547) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci: phase 4 -- group Renovate PRs by family](https://github.com/GlycemicGPT/GlycemicGPT/pull/546) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci: phase 2 -- fork PR lockdown (CODEOWNERS &#43; Renovate caps)](https://github.com/GlycemicGPT/GlycemicGPT/pull/545) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci: path-filter ci.yml component test/lint jobs](https://github.com/GlycemicGPT/GlycemicGPT/pull/544) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci(security): GitHub Actions supply-chain hygiene](https://github.com/GlycemicGPT/GlycemicGPT/pull/541) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [docs(security): add Dependency Auto-Merge Coverage contract](https://github.com/GlycemicGPT/GlycemicGPT/pull/540) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
