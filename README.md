@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [ci: phase 2 -- fork PR lockdown (CODEOWNERS &#43; Renovate caps)](https://github.com/GlycemicGPT/GlycemicGPT/pull/545) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [ci: path-filter ci.yml component test/lint jobs](https://github.com/GlycemicGPT/GlycemicGPT/pull/544) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci(security): GitHub Actions supply-chain hygiene](https://github.com/GlycemicGPT/GlycemicGPT/pull/541) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [docs(security): add Dependency Auto-Merge Coverage contract](https://github.com/GlycemicGPT/GlycemicGPT/pull/540) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci(renovate): add log_level workflow_dispatch input for diagnostic runs](https://github.com/GlycemicGPT/GlycemicGPT/pull/538) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/537) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [fix(deps): clear OSV-flagged CVEs in lockfiles](https://github.com/GlycemicGPT/GlycemicGPT/pull/535) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
