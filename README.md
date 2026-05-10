@@ -81,32 +81,32 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [jlengelbrecht/bmad_demo](https://github.com/jlengelbrecht/bmad_demo) - a demo to showcase hoe bmad could be used in a team environment
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
 - [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
-- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container -->
+- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org -->
 
 ## 🌱 My latest projects
 
+- [jlengelbrecht/bmad_demo](https://github.com/jlengelbrecht/bmad_demo) - a demo to showcase hoe bmad could be used in a team environment
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
-- [jlengelbrecht/unifi-dns-sync](https://github.com/jlengelbrecht/unifi-dns-sync) - 
 
 ## 🔨 My recent Pull Requests
 
-- [ci: address CodeRabbit findings on promotion PR #548](https://github.com/GlycemicGPT/GlycemicGPT/pull/549) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/548) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [ci: phase 5 -- enable Renovate auto-merge via label-driven workflow](https://github.com/GlycemicGPT/GlycemicGPT/pull/547) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [ci: phase 4 -- group Renovate PRs by family](https://github.com/GlycemicGPT/GlycemicGPT/pull/546) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [ci: phase 2 -- fork PR lockdown (CODEOWNERS &#43; Renovate caps)](https://github.com/GlycemicGPT/GlycemicGPT/pull/545) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(dev): ns_emulator interactive --wizard mode for new contributors](https://github.com/GlycemicGPT/GlycemicGPT/pull/593) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(dev): manual lens — Care Portal direct-entry web UI (final lens)](https://github.com/GlycemicGPT/GlycemicGPT/pull/592) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(dev): tconnectsync lens — Tandem t:connect cloud → NS bridge (pump-side)](https://github.com/GlycemicGPT/GlycemicGPT/pull/591) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(dev): share2ns lens — Dexcom Share cloud → NS bridge](https://github.com/GlycemicGPT/GlycemicGPT/pull/590) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(dev): LibreLinkUp lens — Abbott cloud → NS bridge (entries-only)](https://github.com/GlycemicGPT/GlycemicGPT/pull/589) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
-- [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) - 
+- [OpenMinimed/PythonPumpConnector](https://github.com/OpenMinimed/PythonPumpConnector) - 
+- [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) - Two paired Claude skills · 90&#43; recon modules · 48 secret-regex patterns · 80&#43; dorks · 9 read-only credential validators · 27 attack-path templates · 5,500&#43; lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements.
 - [EarMaster/AutoSugar](https://github.com/EarMaster/AutoSugar) - AutoSugar is an unofficial Android Auto app for monitoring Nightscout CGM (blood glucose) data while driving.
 - [bewest/rag-nightscout-ecosystem-alignment](https://github.com/bewest/rag-nightscout-ecosystem-alignment) - 
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
