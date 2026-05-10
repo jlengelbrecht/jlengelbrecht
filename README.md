@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(api): Nightscout evaluate endpoint for smart-onboarding wizard (Story 43.7a)](https://github.com/GlycemicGPT/GlycemicGPT/pull/594) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(dev): ns_emulator interactive --wizard mode for new contributors](https://github.com/GlycemicGPT/GlycemicGPT/pull/593) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(dev): manual lens — Care Portal direct-entry web UI (final lens)](https://github.com/GlycemicGPT/GlycemicGPT/pull/592) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(dev): tconnectsync lens — Tandem t:connect cloud → NS bridge (pump-side)](https://github.com/GlycemicGPT/GlycemicGPT/pull/591) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(dev): share2ns lens — Dexcom Share cloud → NS bridge](https://github.com/GlycemicGPT/GlycemicGPT/pull/590) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(dev): LibreLinkUp lens — Abbott cloud → NS bridge (entries-only)](https://github.com/GlycemicGPT/GlycemicGPT/pull/589) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
