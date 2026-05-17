@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [Expand Dexcom &#43; Tandem region support and fix Tandem cloud upload](https://github.com/GlycemicGPT/GlycemicGPT/pull/642) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [docs: add Supported by section and scope-down sponsor/credential docs](https://github.com/GlycemicGPT/GlycemicGPT/pull/641) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [ci: support fork PRs in labeler, attribution check, and security scan](https://github.com/GlycemicGPT/GlycemicGPT/pull/639) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [perf(landing): strip framer-motion from above-the-fold critical path](https://github.com/GlycemicGPT/website/pull/96) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 - [fix(demos): align landing-page demos with monitoring-only stance](https://github.com/GlycemicGPT/website/pull/94) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
-- [fix: loud signals for COOKIE_SECURE plain-HTTP deploy misconfig](https://github.com/GlycemicGPT/GlycemicGPT/pull/637) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
