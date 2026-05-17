@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [ci: support fork PRs in labeler, attribution check, and security scan](https://github.com/GlycemicGPT/GlycemicGPT/pull/639) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [perf(landing): strip framer-motion from above-the-fold critical path](https://github.com/GlycemicGPT/website/pull/96) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 - [fix(demos): align landing-page demos with monitoring-only stance](https://github.com/GlycemicGPT/website/pull/94) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
 - [fix: loud signals for COOKIE_SECURE plain-HTTP deploy misconfig](https://github.com/GlycemicGPT/GlycemicGPT/pull/637) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(web): forecast picker &#43; dotted-line overlay (43.12 PR 4)](https://github.com/GlycemicGPT/GlycemicGPT/pull/636) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(api): forecast read endpoint &#43; picker preference (43.12 PR 3)](https://github.com/GlycemicGPT/GlycemicGPT/pull/635) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
