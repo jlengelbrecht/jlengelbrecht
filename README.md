@@ -81,11 +81,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [jlengelbrecht/bmad_demo](https://github.com/jlengelbrecht/bmad_demo) - a demo to showcase hoe bmad could be used in a team environment
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
 - [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
-- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org -->
+- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
+- [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
+- [jlengelbrecht/bmad_demo](https://github.com/jlengelbrecht/bmad_demo) - a demo to showcase hoe bmad could be used in a team environment
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️ -->
 
 ## 🌱 My latest projects
 
@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(web): Nightscout smart-onboarding wizard route &#43; 5 steps](https://github.com/GlycemicGPT/GlycemicGPT/pull/597) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(api): Nightscout apply-onboarding endpoint &#43; derivation read](https://github.com/GlycemicGPT/GlycemicGPT/pull/596) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(api): pure-function NS profile -&gt; wizard proposals derive](https://github.com/GlycemicGPT/GlycemicGPT/pull/595) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(api): Nightscout evaluate endpoint for smart-onboarding wizard (Story 43.7a)](https://github.com/GlycemicGPT/GlycemicGPT/pull/594) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(dev): ns_emulator interactive --wizard mode for new contributors](https://github.com/GlycemicGPT/GlycemicGPT/pull/593) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix(demos): align landing-page demos with monitoring-only stance](https://github.com/GlycemicGPT/website/pull/94) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
+- [fix: loud signals for COOKIE_SECURE plain-HTTP deploy misconfig](https://github.com/GlycemicGPT/GlycemicGPT/pull/637) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(web): forecast picker &#43; dotted-line overlay (43.12 PR 4)](https://github.com/GlycemicGPT/GlycemicGPT/pull/636) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(api): forecast read endpoint &#43; picker preference (43.12 PR 3)](https://github.com/GlycemicGPT/GlycemicGPT/pull/635) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(api, web): vendor-agnostic data-flow disclosures for BYOAI](https://github.com/GlycemicGPT/GlycemicGPT/pull/634) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
