@@ -81,11 +81,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
+- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
 - [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
-- [jlengelbrecht/bmad_demo](https://github.com/jlengelbrecht/bmad_demo) - a demo to showcase hoe bmad could be used in a team environment
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️ -->
+- [jlengelbrecht/bmad_demo](https://github.com/jlengelbrecht/bmad_demo) - a demo to showcase hoe bmad could be used in a team environment -->
 
 ## 🌱 My latest projects
 
@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [Expand Dexcom &#43; Tandem region support and fix Tandem cloud upload](https://github.com/GlycemicGPT/GlycemicGPT/pull/642) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [docs: add Supported by section and scope-down sponsor/credential docs](https://github.com/GlycemicGPT/GlycemicGPT/pull/641) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [ci: support fork PRs in labeler, attribution check, and security scan](https://github.com/GlycemicGPT/GlycemicGPT/pull/639) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [perf(landing): strip framer-motion from above-the-fold critical path](https://github.com/GlycemicGPT/website/pull/96) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
-- [fix(demos): align landing-page demos with monitoring-only stance](https://github.com/GlycemicGPT/website/pull/94) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
+- [feat(api): add Sentry error monitoring (disabled by default)](https://github.com/GlycemicGPT/GlycemicGPT/pull/672) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat: Medtronic CareLink manual historical import](https://github.com/GlycemicGPT/GlycemicGPT/pull/671) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [docs: add Sentry for Good sponsor and privacy posture](https://github.com/GlycemicGPT/GlycemicGPT/pull/670) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(tandem): Cloud Sync card with per-user sync, availability, and manual import](https://github.com/GlycemicGPT/GlycemicGPT/pull/669) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix(tandem): remove cloud-upload feature](https://github.com/GlycemicGPT/GlycemicGPT/pull/668) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph.
 - [OpenMinimed/PythonPumpConnector](https://github.com/OpenMinimed/PythonPumpConnector) - 
 - [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) - Two paired Claude skills · 90&#43; recon modules · 48 secret-regex patterns · 80&#43; dorks · 9 read-only credential validators · 27 attack-path templates · 5,500&#43; lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements.
 - [EarMaster/AutoSugar](https://github.com/EarMaster/AutoSugar) - AutoSugar is an unofficial Android Auto app for monitoring Nightscout CGM (blood glucose) data while driving.
 - [bewest/rag-nightscout-ecosystem-alignment](https://github.com/bewest/rag-nightscout-ecosystem-alignment) - 
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
