@@ -82,8 +82,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 👷 Check out what I'm currently working on
 
 - [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
-- [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
 - [GlycemicGPT/glycemicgpt-ios-unofficial](https://github.com/GlycemicGPT/glycemicgpt-ios-unofficial) - mobile builds of glycemicgpt for ios deployed via testflight
+- [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙 -->
 
