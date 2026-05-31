@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(integrations): Omnipod cloud sync via Glooko](https://github.com/GlycemicGPT/GlycemicGPT/pull/689) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix(web): stop the glucose SSE proxy from leaking aborts into Sentry](https://github.com/GlycemicGPT/GlycemicGPT/pull/688) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [fix(ci): green develop after Medtronic Connect merge (helper-src context &#43; x/sys CVE)](https://github.com/GlycemicGPT/GlycemicGPT/pull/687) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(integrations): Medtronic CareLink Connect autonomous cloud sync](https://github.com/GlycemicGPT/GlycemicGPT/pull/686) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat: add legal and standard website pages (Privacy, Terms, Disclaimer, Accessibility, Contact)](https://github.com/GlycemicGPT/website/pull/120) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
-- [fix(caregiver): resolve 500 on invitation creation](https://github.com/GlycemicGPT/GlycemicGPT/pull/685) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [docs(roadmap): name the shared memory layer under AI Engine 2.0](https://github.com/GlycemicGPT/GlycemicGPT/pull/684) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
