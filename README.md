@@ -81,11 +81,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
-- [GlycemicGPT/.github](https://github.com/GlycemicGPT/.github) - Organization profile and default community health files
-- [jlengelbrecht/bmad_demo](https://github.com/jlengelbrecht/bmad_demo) - a demo to showcase hoe bmad could be used in a team environment -->
+- [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
+- [GlycemicGPT/glycemicgpt-ios-unofficial](https://github.com/GlycemicGPT/glycemicgpt-ios-unofficial) - mobile builds of glycemicgpt for ios deployed via testflight
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
+- [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙 -->
 
 ## 🌱 My latest projects
 
@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(api): add Sentry error monitoring (disabled by default)](https://github.com/GlycemicGPT/GlycemicGPT/pull/672) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat: Medtronic CareLink manual historical import](https://github.com/GlycemicGPT/GlycemicGPT/pull/671) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [docs: add Sentry for Good sponsor and privacy posture](https://github.com/GlycemicGPT/GlycemicGPT/pull/670) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(tandem): Cloud Sync card with per-user sync, availability, and manual import](https://github.com/GlycemicGPT/GlycemicGPT/pull/669) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [fix(tandem): remove cloud-upload feature](https://github.com/GlycemicGPT/GlycemicGPT/pull/668) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix(ci): green develop after Medtronic Connect merge (helper-src context &#43; x/sys CVE)](https://github.com/GlycemicGPT/GlycemicGPT/pull/687) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(integrations): Medtronic CareLink Connect autonomous cloud sync](https://github.com/GlycemicGPT/GlycemicGPT/pull/686) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat: add legal and standard website pages (Privacy, Terms, Disclaimer, Accessibility, Contact)](https://github.com/GlycemicGPT/website/pull/120) on [GlycemicGPT/website](https://github.com/GlycemicGPT/website)
+- [fix(caregiver): resolve 500 on invitation creation](https://github.com/GlycemicGPT/GlycemicGPT/pull/685) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [docs(roadmap): name the shared memory layer under AI Engine 2.0](https://github.com/GlycemicGPT/GlycemicGPT/pull/684) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
