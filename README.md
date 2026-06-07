@@ -81,32 +81,32 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
-- [GlycemicGPT/glycemicgpt-ios-unofficial](https://github.com/GlycemicGPT/glycemicgpt-ios-unofficial) - mobile builds of glycemicgpt for ios deployed via testflight
-- [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
+- [jlengelbrecht/deckhand](https://github.com/jlengelbrecht/deckhand) - Self-hosted, single-pane control plane for orchestrating AI coding agents across always-on dev VMs.
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙 -->
+- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
+- [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
+- [GlycemicGPT/glycemicgpt-ios-unofficial](https://github.com/GlycemicGPT/glycemicgpt-ios-unofficial) - mobile builds of glycemicgpt for ios deployed via testflight -->
 
 ## 🌱 My latest projects
 
+- [jlengelbrecht/deckhand](https://github.com/jlengelbrecht/deckhand) - Self-hosted, single-pane control plane for orchestrating AI coding agents across always-on dev VMs.
 - [jlengelbrecht/bmad_demo](https://github.com/jlengelbrecht/bmad_demo) - a demo to showcase hoe bmad could be used in a team environment
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [jlengelbrecht/portfolio](https://github.com/jlengelbrecht/portfolio) - :star: Personal Developer Portfolio site
 
 ## 🔨 My recent Pull Requests
 
-- [feat(mobile): wire Sentry crash/error reporting into the Android app](https://github.com/GlycemicGPT/GlycemicGPT/pull/693) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(medtronic): offline peripheral-BLE &#43; SAKE handshake de-risk spike](https://github.com/GlycemicGPT/GlycemicGPT/pull/692) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [fix(integrations): refresh Glooko card status after a failed sync/import](https://github.com/GlycemicGPT/GlycemicGPT/pull/691) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(integrations): make Omnipod/Glooko EU region a first-class option](https://github.com/GlycemicGPT/GlycemicGPT/pull/690) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(integrations): Omnipod cloud sync via Glooko](https://github.com/GlycemicGPT/GlycemicGPT/pull/689) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [docs(readme): add Medtronic 700-series &#43; web dashboard demo &#43; trim badges](https://github.com/GlycemicGPT/GlycemicGPT/pull/709) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [docs(medtronic): live-validation pre-flight runbook &#43; armed gitignored capture path](https://github.com/GlycemicGPT/GlycemicGPT/pull/707) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [docs(medtronic): OpenMinimed attribution, GPL-3.0 licensing, and BLE pairing guide](https://github.com/GlycemicGPT/GlycemicGPT/pull/706) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix(api): bump pyjwt to 2.13.0 to clear PYSEC-2026 advisories](https://github.com/GlycemicGPT/GlycemicGPT/pull/705) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(medtronic): advertise-and-wait pairing UX &#43; driver kill-switch](https://github.com/GlycemicGPT/GlycemicGPT/pull/704) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
+- [Binaire-0101/awesome-meta-ray-ban-display-glasses](https://github.com/Binaire-0101/awesome-meta-ray-ban-display-glasses) - Kind of a long name, isn&#39;t it?
+- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace. 
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph.
 - [OpenMinimed/PythonPumpConnector](https://github.com/OpenMinimed/PythonPumpConnector) - 
 - [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) - Two paired Claude skills · 90&#43; recon modules · 48 secret-regex patterns · 80&#43; dorks · 9 read-only credential validators · 27 attack-path templates · 5,500&#43; lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements.
-- [EarMaster/AutoSugar](https://github.com/EarMaster/AutoSugar) - AutoSugar is an unofficial Android Auto app for monitoring Nightscout CGM (blood glucose) data while driving.
-- [bewest/rag-nightscout-ecosystem-alignment](https://github.com/bewest/rag-nightscout-ecosystem-alignment) - 
