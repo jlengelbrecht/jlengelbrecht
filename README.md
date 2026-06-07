@@ -83,8 +83,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 - [jlengelbrecht/deckhand](https://github.com/jlengelbrecht/deckhand) - Self-hosted, single-pane control plane for orchestrating AI coding agents across always-on dev VMs.
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
 - [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
+- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
 - [GlycemicGPT/glycemicgpt-ios-unofficial](https://github.com/GlycemicGPT/glycemicgpt-ios-unofficial) - mobile builds of glycemicgpt for ios deployed via testflight -->
 
 ## 🌱 My latest projects
