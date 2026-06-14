@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(api): meal correction loop &#43; common foods](https://github.com/GlycemicGPT/GlycemicGPT/pull/737) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(api): food photo carb-estimation pipeline &#43; food_records](https://github.com/GlycemicGPT/GlycemicGPT/pull/736) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [fix(homepage): provide all 9 config files (fixes persistent CrashLoop)](https://github.com/jlengelbrecht/prox-ops/pull/1169) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(homepage): make /app/config writable (fixes CrashLoop after config→Git migration)](https://github.com/jlengelbrecht/prox-ops/pull/1168) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(sidecar): per-provider vision support &#43; carb-estimation eval harness (Meal Intelligence)](https://github.com/GlycemicGPT/GlycemicGPT/pull/735) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(homepage): move dashboard config into Git &#43; add missing apps, fix widgets](https://github.com/jlengelbrecht/prox-ops/pull/1166) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
