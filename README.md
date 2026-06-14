@@ -81,11 +81,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [jlengelbrecht/deckhand](https://github.com/jlengelbrecht/deckhand) - Self-hosted, single-pane control plane for orchestrating AI coding agents across always-on dev VMs.
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
-- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org
-- [GlycemicGPT/glycemicgpt-ios-unofficial](https://github.com/GlycemicGPT/glycemicgpt-ios-unofficial) - mobile builds of glycemicgpt for ios deployed via testflight -->
+- [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
+- [jlengelbrecht/deckhand](https://github.com/jlengelbrecht/deckhand) - Self-hosted, single-pane control plane for orchestrating AI coding agents across always-on dev VMs.
+- [GlycemicGPT/glycemicgpt-ios-unofficial](https://github.com/GlycemicGPT/glycemicgpt-ios-unofficial) - mobile builds of glycemicgpt for ios deployed via testflight
+- [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org -->
 
 ## 🌱 My latest projects
 
@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [docs(readme): add Medtronic 700-series &#43; web dashboard demo &#43; trim badges](https://github.com/GlycemicGPT/GlycemicGPT/pull/709) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [docs(medtronic): live-validation pre-flight runbook &#43; armed gitignored capture path](https://github.com/GlycemicGPT/GlycemicGPT/pull/707) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [docs(medtronic): OpenMinimed attribution, GPL-3.0 licensing, and BLE pairing guide](https://github.com/GlycemicGPT/GlycemicGPT/pull/706) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [fix(api): bump pyjwt to 2.13.0 to clear PYSEC-2026 advisories](https://github.com/GlycemicGPT/GlycemicGPT/pull/705) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(medtronic): advertise-and-wait pairing UX &#43; driver kill-switch](https://github.com/GlycemicGPT/GlycemicGPT/pull/704) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(sidecar): Claude vision path &#43; carb-estimation eval harness (Epic 50 Milestone A)](https://github.com/GlycemicGPT/GlycemicGPT/pull/734) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(media): migrate Overseerr to Seerr](https://github.com/jlengelbrecht/prox-ops/pull/1163) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(homepage): set HOMEPAGE_ALLOWED_HOSTS for v1.x host validation](https://github.com/jlengelbrecht/prox-ops/pull/1162) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [ci(talos): guard upgrades against net.ifnames=0 regression](https://github.com/jlengelbrecht/prox-ops/pull/1161) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(talos): correct pets upgrade schematics to include net.ifnames=0](https://github.com/jlengelbrecht/prox-ops/pull/1160) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
