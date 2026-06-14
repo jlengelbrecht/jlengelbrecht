@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(homepage): provide all 9 config files (fixes persistent CrashLoop)](https://github.com/jlengelbrecht/prox-ops/pull/1169) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(homepage): make /app/config writable (fixes CrashLoop after config→Git migration)](https://github.com/jlengelbrecht/prox-ops/pull/1168) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(sidecar): per-provider vision support &#43; carb-estimation eval harness (Meal Intelligence)](https://github.com/GlycemicGPT/GlycemicGPT/pull/735) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(homepage): move dashboard config into Git &#43; add missing apps, fix widgets](https://github.com/jlengelbrecht/prox-ops/pull/1166) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [ci(renovate): broad patch&#43;minor auto-merge with critical denylist](https://github.com/jlengelbrecht/prox-ops/pull/1164) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(sidecar): per-provider vision support &#43; carb-estimation eval harness (Meal Intelligence)](https://github.com/GlycemicGPT/GlycemicGPT/pull/734) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(media): migrate Overseerr to Seerr](https://github.com/jlengelbrecht/prox-ops/pull/1163) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(homepage): set HOMEPAGE_ALLOWED_HOSTS for v1.x host validation](https://github.com/jlengelbrecht/prox-ops/pull/1162) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [ci(talos): guard upgrades against net.ifnames=0 regression](https://github.com/jlengelbrecht/prox-ops/pull/1161) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
