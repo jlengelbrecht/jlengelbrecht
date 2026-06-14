@@ -98,7 +98,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 🔨 My recent Pull Requests
 
 - [ci(renovate): broad patch&#43;minor auto-merge with critical denylist](https://github.com/jlengelbrecht/prox-ops/pull/1164) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(sidecar): per-provider vision support &#43; carb-estimation eval harness (Epic 50 Milestone A)](https://github.com/GlycemicGPT/GlycemicGPT/pull/734) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(sidecar): per-provider vision support &#43; carb-estimation eval harness (Meal Intelligence)](https://github.com/GlycemicGPT/GlycemicGPT/pull/734) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(media): migrate Overseerr to Seerr](https://github.com/jlengelbrecht/prox-ops/pull/1163) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(homepage): set HOMEPAGE_ALLOWED_HOSTS for v1.x host validation](https://github.com/jlengelbrecht/prox-ops/pull/1162) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [ci(talos): guard upgrades against net.ifnames=0 regression](https://github.com/jlengelbrecht/prox-ops/pull/1161) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
