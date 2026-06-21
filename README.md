@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(web): mmol/L glucose unit toggle, display conversion, and input forms (53.2)](https://github.com/GlycemicGPT/GlycemicGPT/pull/802) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/796) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat: web &#43; mobile meal comorbidity nutrition (saturated fat, sugars, sodium)](https://github.com/GlycemicGPT/GlycemicGPT/pull/795) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat: web meal estimate provenance panel (how this was estimated)](https://github.com/GlycemicGPT/GlycemicGPT/pull/794) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat: web common-foods management and save/link from a meal](https://github.com/GlycemicGPT/GlycemicGPT/pull/793) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat: web meal carb correction and food-identity confirmation](https://github.com/GlycemicGPT/GlycemicGPT/pull/792) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
