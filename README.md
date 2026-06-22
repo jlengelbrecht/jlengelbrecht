@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: render glucose alerts and caregiver views in the user&#39;s unit](https://github.com/GlycemicGPT/GlycemicGPT/pull/804) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(api): render AI text and notifications in the user&#39;s glucose unit](https://github.com/GlycemicGPT/GlycemicGPT/pull/803) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(web): mmol/L glucose unit toggle, display conversion, and input forms](https://github.com/GlycemicGPT/GlycemicGPT/pull/802) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/796) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat: web &#43; mobile meal comorbidity nutrition (saturated fat, sugars, sodium)](https://github.com/GlycemicGPT/GlycemicGPT/pull/795) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat: web meal estimate provenance panel (how this was estimated)](https://github.com/GlycemicGPT/GlycemicGPT/pull/794) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
