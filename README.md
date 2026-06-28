@@ -81,10 +81,10 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [jlengelbrecht/deckhand](https://github.com/jlengelbrecht/deckhand) - Self-hosted, single-pane control plane for orchestrating AI coding agents across always-on dev VMs.
-- [GlycemicGPT/glycemicgpt-ios-unofficial](https://github.com/GlycemicGPT/glycemicgpt-ios-unofficial) - mobile builds of glycemicgpt for ios deployed via testflight
+- [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
 - [GlycemicGPT/website](https://github.com/GlycemicGPT/website) - GlycemicGPT project website - glycemicgpt.org -->
 
 ## 🌱 My latest projects
@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat: render glucose alerts and caregiver views in the user&#39;s unit](https://github.com/GlycemicGPT/GlycemicGPT/pull/804) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(api): render AI text and notifications in the user&#39;s glucose unit](https://github.com/GlycemicGPT/GlycemicGPT/pull/803) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(web): mmol/L glucose unit toggle, display conversion, and input forms](https://github.com/GlycemicGPT/GlycemicGPT/pull/802) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/796) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat: web &#43; mobile meal comorbidity nutrition (saturated fat, sugars, sodium)](https://github.com/GlycemicGPT/GlycemicGPT/pull/795) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(benchmarks): versioned trust kernel — shared verdict, content hash, CI gate](https://github.com/GlycemicGPT/GlycemicGPT/pull/835) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/831) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(mobile): make the Home &#34;Log a meal&#34; FAB draggable](https://github.com/GlycemicGPT/GlycemicGPT/pull/826) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix(food-records): return 404 when a record is deleted mid common-food promotion](https://github.com/GlycemicGPT/GlycemicGPT/pull/825) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat: per-user Meal Intelligence setting replacing the env-var gate](https://github.com/GlycemicGPT/GlycemicGPT/pull/823) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
+- [rawsocket-dev/plex-watchparty](https://github.com/rawsocket-dev/plex-watchparty) - Synchronized Plex movie nights — on your LAN or over the internet. Google sign-in &#43; email allowlist, hls.js proxy/cache over Plex&#39;s transcoder, single active host. No Plex account needed for guests.
 - [Binaire-0101/awesome-meta-ray-ban-display-glasses](https://github.com/Binaire-0101/awesome-meta-ray-ban-display-glasses) - Kind of a long name, isn&#39;t it?
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace. 
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph.
 - [OpenMinimed/PythonPumpConnector](https://github.com/OpenMinimed/PythonPumpConnector) - 
-- [elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT) - Two paired Claude skills · 90&#43; recon modules · 48 secret-regex patterns · 80&#43; dorks · 9 read-only credential validators · 27 attack-path templates · 5,500&#43; lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements.
