@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(benchmarks): unify text &#43; vision into a per-capability trust matrix](https://github.com/GlycemicGPT/GlycemicGPT/pull/837) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(benchmarks): versioned trust kernel — shared verdict, content hash, CI gate](https://github.com/GlycemicGPT/GlycemicGPT/pull/835) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/831) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(mobile): make the Home &#34;Log a meal&#34; FAB draggable](https://github.com/GlycemicGPT/GlycemicGPT/pull/826) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [fix(food-records): return 404 when a record is deleted mid common-food promotion](https://github.com/GlycemicGPT/GlycemicGPT/pull/825) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat: per-user Meal Intelligence setting replacing the env-var gate](https://github.com/GlycemicGPT/GlycemicGPT/pull/823) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
