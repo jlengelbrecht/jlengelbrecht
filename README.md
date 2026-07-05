@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(meal): never leak a bare 500 on photo upload; honest copy &#43; diagnostics](https://github.com/GlycemicGPT/GlycemicGPT/pull/838) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(benchmarks): unify text &#43; vision into a per-capability trust matrix](https://github.com/GlycemicGPT/GlycemicGPT/pull/837) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(benchmarks): versioned trust kernel — shared verdict, content hash, CI gate](https://github.com/GlycemicGPT/GlycemicGPT/pull/835) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [chore: promote develop to main](https://github.com/GlycemicGPT/GlycemicGPT/pull/831) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(mobile): make the Home &#34;Log a meal&#34; FAB draggable](https://github.com/GlycemicGPT/GlycemicGPT/pull/826) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(api): wire AI dosing-safety floor into all chat surfaces (GLY-69)](https://github.com/GlycemicGPT/GlycemicGPT/pull/868) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [fix(api): filter bolus CGM-freshness gate to the primary CGM source](https://github.com/GlycemicGPT/GlycemicGPT/pull/866) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(api): caregiver lost-contact data-gap alert (GLY-137)](https://github.com/GlycemicGPT/GlycemicGPT/pull/864) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(mobile): Wear OS offline tier - freshness-gated alert parity and honest wrist surfaces](https://github.com/GlycemicGPT/GlycemicGPT/pull/863) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [feat(mobile): on-device freshness-gated alert floor (GLY-115)](https://github.com/GlycemicGPT/GlycemicGPT/pull/862) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [rawsocket-dev/plex-watchparty](https://github.com/rawsocket-dev/plex-watchparty) - Synchronized Plex movie nights — on your LAN or over the internet. Google sign-in &#43; email allowlist, hls.js proxy/cache over Plex&#39;s transcoder, single active host. No Plex account needed for guests.
 - [Binaire-0101/awesome-meta-ray-ban-display-glasses](https://github.com/Binaire-0101/awesome-meta-ray-ban-display-glasses) - Kind of a long name, isn&#39;t it?
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace. 
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph.
-- [OpenMinimed/PythonPumpConnector](https://github.com/OpenMinimed/PythonPumpConnector) - 
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph.
