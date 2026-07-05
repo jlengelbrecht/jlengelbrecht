@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(mobile): on-device alert thresholds with source-aware floor arming](https://github.com/GlycemicGPT/GlycemicGPT/pull/870) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(mobile): backendless onboarding — BLE-only entry (GLY-144)](https://github.com/GlycemicGPT/GlycemicGPT/pull/869) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(api): wire AI dosing-safety floor into all chat surfaces (GLY-69)](https://github.com/GlycemicGPT/GlycemicGPT/pull/868) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [fix(api): filter bolus CGM-freshness gate to the primary CGM source](https://github.com/GlycemicGPT/GlycemicGPT/pull/866) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 - [feat(api): caregiver lost-contact data-gap alert (GLY-137)](https://github.com/GlycemicGPT/GlycemicGPT/pull/864) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(mobile): Wear OS offline tier - freshness-gated alert parity and honest wrist surfaces](https://github.com/GlycemicGPT/GlycemicGPT/pull/863) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
