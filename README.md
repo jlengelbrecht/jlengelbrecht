@@ -81,9 +81,9 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [OpenMinimed/JavaSake](https://github.com/OpenMinimed/JavaSake) - 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
+- [OpenMinimed/JavaSake](https://github.com/OpenMinimed/JavaSake) - 
 - [jlengelbrecht/deckhand](https://github.com/jlengelbrecht/deckhand) - Self-hosted, single-pane control plane for orchestrating AI coding agents across always-on dev VMs.
 - [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial) - sideloaded mobile builds of glycemicgpt for android  -->
 
@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(mobile): on-device alert thresholds with source-aware floor arming](https://github.com/GlycemicGPT/GlycemicGPT/pull/870) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(mobile): backendless onboarding — BLE-only entry (GLY-144)](https://github.com/GlycemicGPT/GlycemicGPT/pull/869) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(api): wire AI dosing-safety floor into all chat surfaces (GLY-69)](https://github.com/GlycemicGPT/GlycemicGPT/pull/868) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [fix(api): filter bolus CGM-freshness gate to the primary CGM source](https://github.com/GlycemicGPT/GlycemicGPT/pull/866) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
-- [feat(api): caregiver lost-contact data-gap alert (GLY-137)](https://github.com/GlycemicGPT/GlycemicGPT/pull/864) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
+- [ci: add Android Gate (build/test/lint) workflow](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/5) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
+- [docs: migrate mobile/Wear OS documentation from the monorepo](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/4) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
+- [chore: correct stale bootstrap-CI framing and post-extraction doc drift](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/3) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
+- [feat: import Android/Wear OS tree from the monorepo with history and a self-contained build](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/2) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
+- [docs: mark repository extraction as in progress](https://github.com/GlycemicGPT/GlycemicGPT/pull/896) on [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
+- [jordanhubbard/mac](https://github.com/jordanhubbard/mac) - Multi-agent coordinator
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [rawsocket-dev/plex-watchparty](https://github.com/rawsocket-dev/plex-watchparty) - Synchronized Plex movie nights — on your LAN or over the internet. Google sign-in &#43; email allowlist, hls.js proxy/cache over Plex&#39;s transcoder, single active host. No Plex account needed for guests.
 - [Binaire-0101/awesome-meta-ray-ban-display-glasses](https://github.com/Binaire-0101/awesome-meta-ray-ban-display-glasses) - Kind of a long name, isn&#39;t it?
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace. 
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph.
