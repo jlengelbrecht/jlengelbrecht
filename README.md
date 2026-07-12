@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [ci: add Android security gates and scope release token permissions](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/9) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
 - [ci: add signed release and dev-latest pipelines; point updater at this repo](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/8) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
 - [ci: fix op-load-signing-secrets template-validation load failure](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/7) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
 - [ci: add reusable 1Password loader for Android signing secrets](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/6) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
 - [ci: add Android Gate (build/test/lint) workflow](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/5) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
-- [docs: migrate mobile/Wear OS documentation from the monorepo](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/4) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
 
 ## ⭐ Recent Stars
 
