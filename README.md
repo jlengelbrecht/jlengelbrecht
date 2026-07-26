@@ -81,11 +81,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org
+- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files
+- [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [GlycemicGPT/GlycemicGPT](https://github.com/GlycemicGPT/GlycemicGPT) - Because no one should manage diabetes alone 💙
-- [OpenMinimed/JavaSake](https://github.com/OpenMinimed/JavaSake) - 
-- [jlengelbrecht/deckhand](https://github.com/jlengelbrecht/deckhand) - Self-hosted, single-pane control plane for orchestrating AI coding agents across always-on dev VMs.
-- [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial) - sideloaded mobile builds of glycemicgpt for android  -->
+- [OpenMinimed/JavaSake](https://github.com/OpenMinimed/JavaSake) -  -->
 
 ## 🌱 My latest projects
 
@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [ci: add Android security gates and scope release token permissions](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/9) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
-- [ci: add signed release and dev-latest pipelines; point updater at this repo](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/8) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
-- [ci: fix op-load-signing-secrets template-validation load failure](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/7) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
-- [ci: add reusable 1Password loader for Android signing secrets](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/6) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
-- [ci: add Android Gate (build/test/lint) workflow](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial/pull/5) on [GlycemicGPT/glycemicgpt-android-unofficial](https://github.com/GlycemicGPT/glycemicgpt-android-unofficial)
+- [fix(deps): patch OSV-flagged dependency vulnerabilities across the stack](https://github.com/lumose-health/GlycemicGPT/pull/927) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
+- [ci: surface apksigner failures and correct signing-smoke module count](https://github.com/lumose-health/GlycemicGPT/pull/926) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
+- [chore(governance): align main CODEOWNERS with the lead-only model](https://github.com/lumose-health/GlycemicGPT/pull/925) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
+- [ci(security): fix develop scan self-cancellation and URL-embedded push token](https://github.com/lumose-health/GlycemicGPT/pull/924) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
+- [chore: promote develop to main](https://github.com/lumose-health/GlycemicGPT/pull/923) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 A loupe for your agents — a real-time Mission-Control dashboard and workspace for AI coding agents, across every provider and every project on your machine
 - [jordanhubbard/mac](https://github.com/jordanhubbard/mac) - Multi-agent coordinator
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [rawsocket-dev/plex-watchparty](https://github.com/rawsocket-dev/plex-watchparty) - Synchronized Plex movie nights — on your LAN or over the internet. Google sign-in &#43; email allowlist, hls.js proxy/cache over Plex&#39;s transcoder, single active host. No Plex account needed for guests.
-- [Binaire-0101/awesome-meta-ray-ban-display-glasses](https://github.com/Binaire-0101/awesome-meta-ray-ban-display-glasses) - Kind of a long name, isn&#39;t it?
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace. 
