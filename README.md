@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(mcp): federate MCP servers through agentgateway for EPIC-034](https://github.com/jlengelbrecht/prox-ops/pull/1230) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): add auth-mechanics spike route for EPIC-034](https://github.com/jlengelbrecht/prox-ops/pull/1229) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): add wake-from-zero gate spike route for qwen36-27b](https://github.com/jlengelbrecht/prox-ops/pull/1227) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(network,ai): request-log PVC write access &#43; agentgateway-pilot SOPS decryption](https://github.com/jlengelbrecht/prox-ops/pull/1225) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ci): validate sops files against encrypted_regex convention](https://github.com/jlengelbrecht/prox-ops/pull/1224) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): add agentgateway cloud pilot route](https://github.com/jlengelbrecht/prox-ops/pull/1223) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
