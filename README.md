@@ -81,11 +81,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org
-- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files
-- [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [OpenMinimed/JavaSake](https://github.com/OpenMinimed/JavaSake) -  -->
+- [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
+- [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
+- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files
+- [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org -->
 
 ## 🌱 My latest projects
 
@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(deps): patch OSV-flagged dependency vulnerabilities across the stack](https://github.com/lumose-health/GlycemicGPT/pull/927) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
-- [ci: surface apksigner failures and correct signing-smoke module count](https://github.com/lumose-health/GlycemicGPT/pull/926) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
-- [chore(governance): align main CODEOWNERS with the lead-only model](https://github.com/lumose-health/GlycemicGPT/pull/925) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
-- [ci(security): fix develop scan self-cancellation and URL-embedded push token](https://github.com/lumose-health/GlycemicGPT/pull/924) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
-- [chore: promote develop to main](https://github.com/lumose-health/GlycemicGPT/pull/923) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
+- [feat(ai): add auth-mechanics spike route for EPIC-034](https://github.com/jlengelbrecht/prox-ops/pull/1229) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): add wake-from-zero gate spike route for qwen36-27b](https://github.com/jlengelbrecht/prox-ops/pull/1227) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(network,ai): request-log PVC write access &#43; agentgateway-pilot SOPS decryption](https://github.com/jlengelbrecht/prox-ops/pull/1225) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(ci): validate sops files against encrypted_regex convention](https://github.com/jlengelbrecht/prox-ops/pull/1224) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): add agentgateway cloud pilot route](https://github.com/jlengelbrecht/prox-ops/pull/1223) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
 - [InteraOne/InteraOne](https://github.com/InteraOne/InteraOne) - ⚡Open source alternative to Intercom &amp; Zendesk.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
-- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 A loupe for your agents — a real-time Mission-Control dashboard and workspace for AI coding agents, across every provider and every project on your machine
+- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
 - [jordanhubbard/mac](https://github.com/jordanhubbard/mac) - Multi-agent coordinator
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
