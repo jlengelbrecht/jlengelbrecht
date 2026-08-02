@@ -105,7 +105,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## ⭐ Recent Stars
 
-- [InteraOne/InteraOne](https://github.com/InteraOne/InteraOne) - ⚡Open source alternative to Intercom &amp; Zendesk.
+- [InteraOne/InteraOne](https://github.com/InteraOne/InteraOne) - ⚡ Open source, agentic alternative to Intercom &amp; Zendesk
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
 - [jordanhubbard/mac](https://github.com/jordanhubbard/mac) - Multi-agent coordinator
