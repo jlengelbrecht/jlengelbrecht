@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(api): deterministic OpenAPI export with committed contract and CI drift gates](https://github.com/lumose-health/GlycemicGPT/pull/991) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [fix(ai): three 34.11 follow-up defects from live verification](https://github.com/jlengelbrecht/prox-ops/pull/1250) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix: compensate for GitHub&#39;s write-only bypass-actor visibility in the scheduled audit](https://github.com/lumose-health/GlycemicGPT/pull/990) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/lumose-health/GlycemicGPT/pull/986) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [fix(ci): wait for a positive GPU count, not the presence of the key](https://github.com/jlengelbrecht/prox-ops/pull/1249) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix: read leg-2 rulesets through the repo-scoped endpoint](https://github.com/lumose-health/GlycemicGPT/pull/985) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 
 ## ⭐ Recent Stars
 
