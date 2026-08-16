@@ -81,9 +81,9 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
 - [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files -->
 
@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ci): wait for a positive GPU count, not the presence of the key](https://github.com/jlengelbrecht/prox-ops/pull/1249) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix: read leg-2 rulesets through the repo-scoped endpoint](https://github.com/lumose-health/GlycemicGPT/pull/985) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/lumose-health/GlycemicGPT/pull/981) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [fix(ci): install the triage CLI per-run so it cannot inherit runner state](https://github.com/jlengelbrecht/prox-ops/pull/1248) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [ci: port the website release-gated environment to the isolation-reviewerless class](https://github.com/lumose-health/GlycemicGPT/pull/980) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
-- [ci: close changelog dispatch reachability and fence auto-merge off .github/](https://github.com/lumose-health/website/pull/304) on [lumose-health/website](https://github.com/lumose-health/website)
-- [fix(ci): make Talos upgrades survive transient failures](https://github.com/jlengelbrecht/prox-ops/pull/1246) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
