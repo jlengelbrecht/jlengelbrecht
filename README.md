@@ -81,11 +81,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
-- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files
-- [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org -->
+- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files -->
 
 ## 🌱 My latest projects
 
@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(ai): point searxng-secrets ExternalSecret at correct 1Password item](https://github.com/jlengelbrecht/prox-ops/pull/1232) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(mcp): correct dependsOn namespace for the MCP federation Kustomization](https://github.com/jlengelbrecht/prox-ops/pull/1231) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(mcp): federate MCP servers through agentgateway for EPIC-034](https://github.com/jlengelbrecht/prox-ops/pull/1230) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): add auth-mechanics spike route for EPIC-034](https://github.com/jlengelbrecht/prox-ops/pull/1229) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): add wake-from-zero gate spike route for qwen36-27b](https://github.com/jlengelbrecht/prox-ops/pull/1227) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [chore: promote develop to main](https://github.com/lumose-health/GlycemicGPT/pull/981) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
+- [fix(ci): install the triage CLI per-run so it cannot inherit runner state](https://github.com/jlengelbrecht/prox-ops/pull/1248) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [ci: port the website release-gated environment to the isolation-reviewerless class](https://github.com/lumose-health/GlycemicGPT/pull/980) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
+- [ci: close changelog dispatch reachability and fence auto-merge off .github/](https://github.com/lumose-health/website/pull/304) on [lumose-health/website](https://github.com/lumose-health/website)
+- [fix(ci): make Talos upgrades survive transient failures](https://github.com/jlengelbrecht/prox-ops/pull/1246) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
