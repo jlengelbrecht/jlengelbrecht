@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix: compensate for GitHub&#39;s write-only bypass-actor visibility in the scheduled audit](https://github.com/lumose-health/GlycemicGPT/pull/990) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/lumose-health/GlycemicGPT/pull/986) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [fix(ci): wait for a positive GPU count, not the presence of the key](https://github.com/jlengelbrecht/prox-ops/pull/1249) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix: read leg-2 rulesets through the repo-scoped endpoint](https://github.com/lumose-health/GlycemicGPT/pull/985) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [chore: promote develop to main](https://github.com/lumose-health/GlycemicGPT/pull/981) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
-- [fix(ci): install the triage CLI per-run so it cannot inherit runner state](https://github.com/jlengelbrecht/prox-ops/pull/1248) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
