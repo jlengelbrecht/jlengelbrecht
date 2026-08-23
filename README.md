@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [docs(contracts): freeze the codex harness launch contract](https://github.com/jlengelbrecht/prox-ops/pull/1278) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(ai): run agent-router at the stamp-validator build](https://github.com/jlengelbrecht/prox-ops/pull/1277) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): add the pre-execution stamp validator and its contract](https://github.com/jlengelbrecht/prox-ops/pull/1276) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(ai): run agent-router at the /v1/place build](https://github.com/jlengelbrecht/prox-ops/pull/1275) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): implement POST /v1/place against the frozen contract](https://github.com/jlengelbrecht/prox-ops/pull/1273) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [chore(ai): run agent-router at the /v1/route build](https://github.com/jlengelbrecht/prox-ops/pull/1272) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
