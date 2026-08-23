@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(ai): implement POST /v1/route against the frozen contract](https://github.com/jlengelbrecht/prox-ops/pull/1271) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(edge): observe cached models truthfully over the shared-state boundary](https://github.com/jlengelbrecht/prox-ops/pull/1270) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): deploy agent-router pinned to its published image digest](https://github.com/jlengelbrecht/prox-ops/pull/1269) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [ci(contracts): run the agent-router contract checks on every relevant change](https://github.com/jlengelbrecht/prox-ops/pull/1268) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [docs(contracts): freeze the ADE ownership boundary for the agent-router](https://github.com/jlengelbrecht/prox-ops/pull/1267) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): add the agent-router service and its container build](https://github.com/jlengelbrecht/prox-ops/pull/1266) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
