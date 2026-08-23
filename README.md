@@ -81,9 +81,9 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
 - [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files -->
 
@@ -97,16 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(api): deterministic OpenAPI export with committed contract and CI drift gates](https://github.com/lumose-health/GlycemicGPT/pull/991) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
-- [fix(ai): three 34.11 follow-up defects from live verification](https://github.com/jlengelbrecht/prox-ops/pull/1250) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix: compensate for GitHub&#39;s write-only bypass-actor visibility in the scheduled audit](https://github.com/lumose-health/GlycemicGPT/pull/990) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
-- [chore: promote develop to main](https://github.com/lumose-health/GlycemicGPT/pull/986) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
-- [fix(ci): wait for a positive GPU count, not the presence of the key](https://github.com/jlengelbrecht/prox-ops/pull/1249) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): deploy agent-router pinned to its published image digest](https://github.com/jlengelbrecht/prox-ops/pull/1269) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [ci(contracts): run the agent-router contract checks on every relevant change](https://github.com/jlengelbrecht/prox-ops/pull/1268) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [docs(contracts): freeze the ADE ownership boundary for the agent-router](https://github.com/jlengelbrecht/prox-ops/pull/1267) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): add the agent-router service and its container build](https://github.com/jlengelbrecht/prox-ops/pull/1266) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): retire four obsolete KServe chat models](https://github.com/jlengelbrecht/prox-ops/pull/1265) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [agentregistry-dev/agentregistry](https://github.com/agentregistry-dev/agentregistry) - Fast-track AI innovation with a centralized, trusted, curated registry
 - [InteraOne/InteraOne](https://github.com/InteraOne/InteraOne) - ⚡ Open source, agentic alternative to Intercom &amp; Zendesk
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.
 - [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
 - [jordanhubbard/mac](https://github.com/jordanhubbard/mac) - Multi-agent coordinator
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
