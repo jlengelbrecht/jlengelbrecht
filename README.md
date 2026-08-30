@@ -97,8 +97,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [docs(contracts): freeze the claude harness launch contract](https://github.com/jlengelbrecht/prox-ops/pull/1279) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [docs(contracts): freeze the codex harness launch contract](https://github.com/jlengelbrecht/prox-ops/pull/1278) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
