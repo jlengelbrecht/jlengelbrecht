@@ -97,6 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(catalog): document the local-code-standard launch path (catalog 1.6.0)](https://github.com/jlengelbrecht/prox-ops/pull/1291) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
