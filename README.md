@@ -97,6 +97,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(flagger-pilot): fence the pilot namespace and apply review follow-ups](https://github.com/jlengelbrecht/prox-ops/pull/1296) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(flagger-pilot): add podinfo canary and metric templates](https://github.com/jlengelbrecht/prox-ops/pull/1295) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(flagger-pilot): add canary pilot frame with scoped Flux source](https://github.com/jlengelbrecht/prox-ops/pull/1294) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(network): re-enable envoy gateway data-plane PodMonitor](https://github.com/jlengelbrecht/prox-ops/pull/1293) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
