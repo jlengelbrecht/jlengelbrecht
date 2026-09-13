@@ -82,9 +82,9 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 👷 Check out what I'm currently working on
 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
+- [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
 - [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org
-- [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
 - [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files -->
 
 ## 🌱 My latest projects
@@ -97,15 +97,15 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(flagger-recovery): add candidate identity and deployment record module](https://github.com/jlengelbrecht/prox-ops/pull/1297) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(flagger-pilot): fence the pilot namespace and apply review follow-ups](https://github.com/jlengelbrecht/prox-ops/pull/1296) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(flagger-pilot): add podinfo canary and metric templates](https://github.com/jlengelbrecht/prox-ops/pull/1295) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(flagger-pilot): add canary pilot frame with scoped Flux source](https://github.com/jlengelbrecht/prox-ops/pull/1294) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): deploy Hindsight on shared PostgreSQL](https://github.com/jlengelbrecht/prox-ops/pull/1344) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(authentik): allow the authorization code grant on the Hermes provider](https://github.com/jlengelbrecht/prox-ops/pull/1343) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(ai): deploy the Hermes dashboard behind Authentik](https://github.com/jlengelbrecht/prox-ops/pull/1342) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [chore(moltbot): remove the retired gateway&#39;s manifests and references](https://github.com/jlengelbrecht/prox-ops/pull/1339) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
-- [agentregistry-dev/agentregistry](https://github.com/agentregistry-dev/agentregistry) - Fast-track AI innovation with a centralized, trusted, curated registry
-- [InteraOne/InteraOne](https://github.com/InteraOne/InteraOne) - ⚡ Open source, agentic alternative to Intercom &amp; Zendesk
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-- [SirAllap/agentglass](https://github.com/SirAllap/agentglass) - 🛰 Every AI coding agent on your machine, on one screen — live cost, tokens and tool calls across every provider, and a hold on anything dangerous until you say go. From your desk or your phone.
-- [jordanhubbard/mac](https://github.com/jordanhubbard/mac) - Multi-agent coordinator
+- [mulgadc/spinifex](https://github.com/mulgadc/spinifex) - Spinifex – Open source AWS-compatible platform for secure edge deployments. Run EC2, VPC, S3, and EBS-like services on bare metal with full control. Built for environments where running in the cloud isn’t an option. Whether you’re deploying to edge sites, private data-centers, or operating in low-connectivity or highly contested environments.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine &#43; app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
+- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
