@@ -97,10 +97,10 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ai): let Hindsight reflect retrieve raw facts](https://github.com/jlengelbrecht/prox-ops/pull/1345) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): deploy Hindsight on shared PostgreSQL](https://github.com/jlengelbrecht/prox-ops/pull/1344) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(authentik): allow the authorization code grant on the Hermes provider](https://github.com/jlengelbrecht/prox-ops/pull/1343) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(ai): deploy the Hermes dashboard behind Authentik](https://github.com/jlengelbrecht/prox-ops/pull/1342) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [chore(moltbot): remove the retired gateway&#39;s manifests and references](https://github.com/jlengelbrecht/prox-ops/pull/1339) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
