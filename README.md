@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ai): permit Telegram and Discord egress from Hermes](https://github.com/jlengelbrecht/prox-ops/pull/1349) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): let Hermes keep its saved memory provider and reach Hindsight](https://github.com/jlengelbrecht/prox-ops/pull/1348) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): allow Hermes to fetch its model catalogs](https://github.com/jlengelbrecht/prox-ops/pull/1347) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(authentik): declare Hindsight outpost access through GitOps](https://github.com/jlengelbrecht/prox-ops/pull/1346) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ai): let Hindsight reflect retrieve raw facts](https://github.com/jlengelbrecht/prox-ops/pull/1345) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): deploy Hindsight on shared PostgreSQL](https://github.com/jlengelbrecht/prox-ops/pull/1344) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
