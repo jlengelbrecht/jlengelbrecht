@@ -97,7 +97,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [chore(ai): bump agent-router to v0.2.1](https://github.com/jlengelbrecht/prox-ops/pull/1366) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
