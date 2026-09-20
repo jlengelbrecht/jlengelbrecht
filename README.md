@@ -97,16 +97,12 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(ai): run the Hermes browser in its own pod](https://github.com/jlengelbrecht/prox-ops/pull/1353) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): restore Hermes setup and OIDC connectivity](https://github.com/jlengelbrecht/prox-ops/pull/1352) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): allow Hermes to browse public websites](https://github.com/jlengelbrecht/prox-ops/pull/1351) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): let Hermes reach its setup tool download hosts](https://github.com/jlengelbrecht/prox-ops/pull/1350) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(ai): permit Telegram and Discord egress from Hermes](https://github.com/jlengelbrecht/prox-ops/pull/1349) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [chore(ai): bump agent-router to v0.2.1](https://github.com/jlengelbrecht/prox-ops/pull/1366) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
 - [mulgadc/spinifex](https://github.com/mulgadc/spinifex) - Spinifex – Open source AWS-compatible platform for secure edge deployments. Run EC2, VPC, S3, and EBS-like services on bare metal with full control. Built for environments where running in the cloud isn’t an option. Whether you’re deploying to edge sites, private data-centers, or operating in low-connectivity or highly contested environments.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine &#43; app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
