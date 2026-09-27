@@ -97,7 +97,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(rook-ceph): disable CSI volume group snapshots](https://github.com/jlengelbrecht/prox-ops/pull/1390) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(media): move media NFS volumes to the UNAS](https://github.com/jlengelbrecht/prox-ops/pull/1392) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [chore(media): scale media and download apps to zero for storage maintenance](https://github.com/jlengelbrecht/prox-ops/pull/1391) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
