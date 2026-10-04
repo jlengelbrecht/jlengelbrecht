@@ -99,7 +99,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 - [fix(grafana): send the Loki tenant header](https://github.com/jlengelbrecht/prox-ops/pull/1443) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(authentik): use the Entra ID logo for the Entra login button](https://github.com/jlengelbrecht/prox-ops/pull/1442) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(authentik): label the Entra source as Sign in with Entra](https://github.com/jlengelbrecht/prox-ops/pull/1441) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
