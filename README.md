@@ -97,7 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(hindsight): validate protected ingestion evidence](https://github.com/jlengelbrecht/prox-ops/pull/1436) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(authentik): add Microsoft Entra ID as a login source](https://github.com/jlengelbrecht/prox-ops/pull/1437) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
