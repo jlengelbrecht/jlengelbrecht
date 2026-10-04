@@ -97,8 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(hindsight): bound protected diagnostic evidence reads](https://github.com/jlengelbrecht/prox-ops/pull/1439) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(hindsight): sanitize centrally collected worker events](https://github.com/jlengelbrecht/prox-ops/pull/1438) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(hindsight): correct series churn and log query selection](https://github.com/jlengelbrecht/prox-ops/pull/1440) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
