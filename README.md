@@ -97,8 +97,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(grafana): send the Loki tenant header](https://github.com/jlengelbrecht/prox-ops/pull/1443) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(authentik): use the Entra ID logo for the Entra login button](https://github.com/jlengelbrecht/prox-ops/pull/1442) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(logging): protect volumes and rehearse snapshot restores](https://github.com/jlengelbrecht/prox-ops/pull/1445) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(renovate): require review for logging stack updates](https://github.com/jlengelbrecht/prox-ops/pull/1444) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
