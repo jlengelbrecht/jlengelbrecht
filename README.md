@@ -97,7 +97,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(hindsight): correct series churn and log query selection](https://github.com/jlengelbrecht/prox-ops/pull/1440) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
