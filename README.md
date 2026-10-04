@@ -100,8 +100,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## ⭐ Recent Stars
 
+- [siderolabs/omni-infra-provider-proxmox](https://github.com/siderolabs/omni-infra-provider-proxmox) - Proxmox infrastructure provider for Omni
+- [littledivy/mimic](https://github.com/littledivy/mimic) - Intercept any app, then call it from Python like a library
+- [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
-- [latent-spaces/brag](https://github.com/latent-spaces/brag) - You built it. Now brag. Turn the project you just created into a short, shareable launch video with one command.
-- [mulgadc/spinifex](https://github.com/mulgadc/spinifex) - Spinifex – Open source AWS-compatible platform for secure edge deployments. Run EC2, VPC, S3, and EBS-like services on bare metal with full control. Built for environments where running in the cloud isn’t an option. Whether you’re deploying to edge sites, private data-centers, or operating in low-connectivity or highly contested environments.
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine &#43; app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
