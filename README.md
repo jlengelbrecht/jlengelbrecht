@@ -97,10 +97,10 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [test(observability): rehearse monitoring database restores on isolated clones](https://github.com/jlengelbrecht/prox-ops/pull/1450) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(logging): add Alloy collector alongside Promtail](https://github.com/jlengelbrecht/prox-ops/pull/1449) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [test(grafana): rehearse version 13 on a protected snapshot clone](https://github.com/jlengelbrecht/prox-ops/pull/1448) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(monitoring): update Prometheus operator CRDs to 32.0.1](https://github.com/jlengelbrecht/prox-ops/pull/1447) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(logging): upgrade Loki to the maintained community chart](https://github.com/jlengelbrecht/prox-ops/pull/1446) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
