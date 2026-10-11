@@ -97,6 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [revert(coredns): drop DNS-over-TLS zone for actions.githubusercontent.com](https://github.com/jlengelbrecht/prox-ops/pull/1491) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [Fix Hindsight partial retain recovery](https://github.com/jlengelbrecht/prox-ops/pull/1490) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(coredns): resolve actions.githubusercontent.com over DNS-over-TLS](https://github.com/jlengelbrecht/prox-ops/pull/1489) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
