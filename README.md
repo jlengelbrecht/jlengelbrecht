@@ -99,7 +99,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 - [Fix Hindsight partial retain recovery](https://github.com/jlengelbrecht/prox-ops/pull/1490) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(coredns): resolve actions.githubusercontent.com over DNS-over-TLS](https://github.com/jlengelbrecht/prox-ops/pull/1489) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(github-actions): run ai-control-plane jobs on the runner-build image](https://github.com/jlengelbrecht/prox-ops/pull/1488) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
