@@ -97,10 +97,10 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(github-actions): add runner scale set for the runner-images repo](https://github.com/jlengelbrecht/prox-ops/pull/1486) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(github-actions): allow Docker Hub blob CDN hosts for ai-control-plane runners](https://github.com/jlengelbrecht/prox-ops/pull/1485) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(github-actions): per-repo runner scale sets via ResourceSet](https://github.com/jlengelbrecht/prox-ops/pull/1484) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(ci): export PATH in same step in runner test workflow](https://github.com/jlengelbrecht/prox-ops/pull/1483) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(github-actions): upgrade ARC to 0.15.0 and runner to 2.338.0](https://github.com/jlengelbrecht/prox-ops/pull/1482) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
