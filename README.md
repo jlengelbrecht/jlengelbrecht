@@ -97,6 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(github-actions): upgrade ARC to 0.15.0 and runner to 2.338.0](https://github.com/jlengelbrecht/prox-ops/pull/1482) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(hindsight): give standalone workers exclusive signal ownership](https://github.com/jlengelbrecht/prox-ops/pull/1481) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
