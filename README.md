@@ -81,31 +81,28 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
+- [jlengelbrecht/Anvil](https://github.com/jlengelbrecht/Anvil) - 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
 - [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
-- [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org
-- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files -->
+- [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org -->
 
 ## 🌱 My latest projects
 
+- [jlengelbrecht/Anvil](https://github.com/jlengelbrecht/Anvil) - 
 - [jlengelbrecht/deckhand](https://github.com/jlengelbrecht/deckhand) - Self-hosted, single-pane control plane for orchestrating AI coding agents across always-on dev VMs.
 - [jlengelbrecht/bmad_demo](https://github.com/jlengelbrecht/bmad_demo) - a demo to showcase hoe bmad could be used in a team environment
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
-- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 
 ## 🔨 My recent Pull Requests
 
-- [test(observability): rehearse monitoring database restores on isolated clones](https://github.com/jlengelbrecht/prox-ops/pull/1450) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(logging): add Alloy collector alongside Promtail](https://github.com/jlengelbrecht/prox-ops/pull/1449) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [test(grafana): rehearse version 13 on a protected snapshot clone](https://github.com/jlengelbrecht/prox-ops/pull/1448) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [chore(monitoring): update Prometheus operator CRDs to 32.0.1](https://github.com/jlengelbrecht/prox-ops/pull/1447) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [fix(hindsight): give standalone workers exclusive signal ownership](https://github.com/jlengelbrecht/prox-ops/pull/1481) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
+- [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [siderolabs/omni-infra-provider-proxmox](https://github.com/siderolabs/omni-infra-provider-proxmox) - Proxmox infrastructure provider for Omni
 - [littledivy/mimic](https://github.com/littledivy/mimic) - Intercept any app, then call it from Python like a library
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
-- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
