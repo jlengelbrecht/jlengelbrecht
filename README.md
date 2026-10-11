@@ -81,8 +81,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 👷 Check out what I'm currently working on
 
-- [jlengelbrecht/Anvil](https://github.com/jlengelbrecht/Anvil) - 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
+- [jlengelbrecht/Anvil](https://github.com/jlengelbrecht/Anvil) - 
 - [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
 - [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
 - [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org -->
@@ -97,6 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(ci): export PATH in same step in runner test workflow](https://github.com/jlengelbrecht/prox-ops/pull/1483) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(github-actions): upgrade ARC to 0.15.0 and runner to 2.338.0](https://github.com/jlengelbrecht/prox-ops/pull/1482) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(hindsight): give standalone workers exclusive signal ownership](https://github.com/jlengelbrecht/prox-ops/pull/1481) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
