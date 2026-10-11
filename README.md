@@ -82,24 +82,24 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 👷 Check out what I'm currently working on
 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [jlengelbrecht/Anvil](https://github.com/jlengelbrecht/Anvil) - 
 - [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
 - [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
-- [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org -->
+- [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org
+- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files -->
 
 ## 🌱 My latest projects
 
-- [jlengelbrecht/Anvil](https://github.com/jlengelbrecht/Anvil) - 
 - [jlengelbrecht/deckhand](https://github.com/jlengelbrecht/deckhand) - Self-hosted, single-pane control plane for orchestrating AI coding agents across always-on dev VMs.
 - [jlengelbrecht/bmad_demo](https://github.com/jlengelbrecht/bmad_demo) - a demo to showcase hoe bmad could be used in a team environment
 - [jlengelbrecht/Auto-Claude-Test](https://github.com/jlengelbrecht/Auto-Claude-Test) - simple test app for autoclaude container
 - [jlengelbrecht/.dotfiles](https://github.com/jlengelbrecht/.dotfiles) - repo for nix builds I use
+- [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 
 ## 🔨 My recent Pull Requests
 
+- [feat(github-actions): run ai-control-plane jobs on the runner-build image](https://github.com/jlengelbrecht/prox-ops/pull/1488) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(github-actions): allow Sigstore timestamp and Rekor v2 hosts for runner-images](https://github.com/jlengelbrecht/prox-ops/pull/1487) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(github-actions): add runner scale set for the runner-images repo](https://github.com/jlengelbrecht/prox-ops/pull/1486) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(github-actions): allow Docker Hub blob CDN hosts for ai-control-plane runners](https://github.com/jlengelbrecht/prox-ops/pull/1485) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
