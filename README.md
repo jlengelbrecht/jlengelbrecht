@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(groschen): verify database TLS and adopt retired transfer policy](https://github.com/jlengelbrecht/prox-ops/pull/1547) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(groschen): publish public database CA through scoped ExternalSecret](https://github.com/jlengelbrecht/prox-ops/pull/1546) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(groschen): run existing installation in production namespace](https://github.com/jlengelbrecht/prox-ops/pull/1545) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(groschen): stop test workloads before namespace cutover](https://github.com/jlengelbrecht/prox-ops/pull/1544) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(groschen): preserve credentials for namespace migration](https://github.com/jlengelbrecht/prox-ops/pull/1543) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(groschen): automate paired image digest updates](https://github.com/jlengelbrecht/prox-ops/pull/1542) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
