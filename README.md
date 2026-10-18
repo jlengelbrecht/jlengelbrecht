@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [chore(spektr): pause writer for RC journal snapshot](https://github.com/jlengelbrecht/prox-ops/pull/1550) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(groschen): remove retired credential-transfer network policy](https://github.com/jlengelbrecht/prox-ops/pull/1549) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(groschen): correct Flux certificate readiness expressions](https://github.com/jlengelbrecht/prox-ops/pull/1548) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(groschen): verify database TLS and adopt retired transfer policy](https://github.com/jlengelbrecht/prox-ops/pull/1547) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(groschen): publish public database CA through scoped ExternalSecret](https://github.com/jlengelbrecht/prox-ops/pull/1546) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(groschen): run existing installation in production namespace](https://github.com/jlengelbrecht/prox-ops/pull/1545) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
