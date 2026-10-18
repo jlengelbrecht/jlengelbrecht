@@ -97,6 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(groschen): correct test hostname to groshen.homelab0.org](https://github.com/jlengelbrecht/prox-ops/pull/1538) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(groschen): deploy test app on shared PostgreSQL](https://github.com/jlengelbrecht/prox-ops/pull/1537) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(groschen): deploy isolated synthetic-data test environment](https://github.com/jlengelbrecht/prox-ops/pull/1536) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
