@@ -97,8 +97,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(spektr): deploy v0.8.0-rc.1 and managed hook bundle](https://github.com/jlengelbrecht/prox-ops/pull/1552) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [chore(spektr): retain pre-RC journal snapshot](https://github.com/jlengelbrecht/prox-ops/pull/1551) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
