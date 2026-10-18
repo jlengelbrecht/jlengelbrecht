@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(spektr): deploy v0.8.0-rc.1 and managed hook bundle](https://github.com/jlengelbrecht/prox-ops/pull/1552) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [chore(spektr): retain pre-RC journal snapshot](https://github.com/jlengelbrecht/prox-ops/pull/1551) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(spektr): pause writer for RC journal snapshot](https://github.com/jlengelbrecht/prox-ops/pull/1550) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(groschen): remove retired credential-transfer network policy](https://github.com/jlengelbrecht/prox-ops/pull/1549) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(groschen): correct Flux certificate readiness expressions](https://github.com/jlengelbrecht/prox-ops/pull/1548) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(groschen): verify database TLS and adopt retired transfer policy](https://github.com/jlengelbrecht/prox-ops/pull/1547) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(groschen): publish public database CA through scoped ExternalSecret](https://github.com/jlengelbrecht/prox-ops/pull/1546) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
