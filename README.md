@@ -98,7 +98,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 🔨 My recent Pull Requests
 
 - [fix(groschen): query Plaid hostname before DNS search paths](https://github.com/jlengelbrecht/prox-ops/pull/1540) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(groschen): allow Plaid sandbox HTTPS egress](https://github.com/jlengelbrecht/prox-ops/pull/1539) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
