@@ -97,8 +97,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(groschen): automate paired image digest updates](https://github.com/jlengelbrecht/prox-ops/pull/1542) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(groschen): deploy bank sync image](https://github.com/jlengelbrecht/prox-ops/pull/1541) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(groschen): query Plaid hostname before DNS search paths](https://github.com/jlengelbrecht/prox-ops/pull/1540) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
