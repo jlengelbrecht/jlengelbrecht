@@ -101,7 +101,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 - [chore(spektr): retain pre-RC journal snapshot](https://github.com/jlengelbrecht/prox-ops/pull/1551) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(spektr): pause writer for RC journal snapshot](https://github.com/jlengelbrecht/prox-ops/pull/1550) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(groschen): remove retired credential-transfer network policy](https://github.com/jlengelbrecht/prox-ops/pull/1549) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(groschen): correct Flux certificate readiness expressions](https://github.com/jlengelbrecht/prox-ops/pull/1548) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
