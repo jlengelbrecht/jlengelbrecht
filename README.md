@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: tab navigation with a capability-driven tab bar](https://github.com/lumose-health/ios-unofficial/pull/17) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 - [feat(system-upgrade): let tuppr run Kubernetes upgrades](https://github.com/jlengelbrecht/prox-ops/pull/1707) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [ci(talos): compare advisory ranges and run the drift check on every PR](https://github.com/jlengelbrecht/prox-ops/pull/1706) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [docs: sync the delivery tracker and mark the PRD section drafts as superseded](https://github.com/lumose-health/ios-unofficial/pull/16) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 - [feat: Home status row and an immediate first demo reading](https://github.com/lumose-health/ios-unofficial/pull/15) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
-- [docs: rewrite the planning docs for project TestFlight distribution](https://github.com/lumose-health/ios-unofficial/pull/14) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 
 ## ⭐ Recent Stars
 
