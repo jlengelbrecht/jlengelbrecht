@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat: Driver registry with derived capability slots and a persisted active set](https://github.com/lumose-health/ios-unofficial/pull/20) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 - [feat: first-run onboarding with an unskippable safety step and a server-optional Backend stage](https://github.com/lumose-health/ios-unofficial/pull/19) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 - [feat: Home refresh that keeps cached values, and honest card placeholders](https://github.com/lumose-health/ios-unofficial/pull/18) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 - [feat: tab navigation with a capability-driven tab bar](https://github.com/lumose-health/ios-unofficial/pull/17) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 - [feat(system-upgrade): let tuppr run Kubernetes upgrades](https://github.com/jlengelbrecht/prox-ops/pull/1707) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [ci(talos): compare advisory ranges and run the drift check on every PR](https://github.com/jlengelbrecht/prox-ops/pull/1706) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
