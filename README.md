@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [docs: rewrite the planning docs for project TestFlight distribution](https://github.com/lumose-health/ios-unofficial/pull/14) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 - [feat(talos): render valid config for both Talos 1.13 and 1.14](https://github.com/jlengelbrecht/prox-ops/pull/1694) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(api): count re-imported Nightscout doses once in IoB](https://github.com/lumose-health/GlycemicGPT/pull/1051) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [fix(talos): render metal-installer images to match the nodes&#39; platform](https://github.com/jlengelbrecht/prox-ops/pull/1687) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(api): dedupe Nightscout records in remaining readers](https://github.com/lumose-health/GlycemicGPT/pull/1050) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
-- [feat(talos): single desired version with drift check, tuppr as only upgrader](https://github.com/jlengelbrecht/prox-ops/pull/1686) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
