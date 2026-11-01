@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(system-upgrade): deploy tuppr upgrade controller, inert](https://github.com/jlengelbrecht/prox-ops/pull/1671) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(talos): add topf machine config alongside talhelper](https://github.com/jlengelbrecht/prox-ops/pull/1670) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(renovate): auto-merge core patch updates after a long soak](https://github.com/jlengelbrecht/prox-ops/pull/1645) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(renovate): unblock updates and speed up automerge](https://github.com/jlengelbrecht/prox-ops/pull/1644) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(fileflows): update to modded-26.10](https://github.com/jlengelbrecht/prox-ops/pull/1643) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(ai): add Qwen3-4B text model on the A2000 and retire whisper-medium](https://github.com/jlengelbrecht/prox-ops/pull/1642) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(litellm): disable upstream model-info polling](https://github.com/jlengelbrecht/prox-ops/pull/1641) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
