@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [chore(rook-ceph): upgrade operator chart to v1.20.9](https://github.com/jlengelbrecht/prox-ops/pull/1640) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(ai): remove the stable-audio, flux-klein and wan-video inference services](https://github.com/jlengelbrecht/prox-ops/pull/1639) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(kserve): let the Knative autoscaler scrape queue-proxy metrics](https://github.com/jlengelbrecht/prox-ops/pull/1638) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(rook-ceph): install the ceph-csi-drivers chart ahead of the v1.20 upgrade](https://github.com/jlengelbrecht/prox-ops/pull/1637) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(rook-ceph): upgrade operator chart to v1.19.12](https://github.com/jlengelbrecht/prox-ops/pull/1636) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(voicestudio): run as a scale-to-zero Knative service on the A5000](https://github.com/jlengelbrecht/prox-ops/pull/1635) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
