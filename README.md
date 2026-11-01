@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [chore(rook-ceph): upgrade operator chart to v1.19.12](https://github.com/jlengelbrecht/prox-ops/pull/1636) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [feat(voicestudio): run as a scale-to-zero Knative service on the A5000](https://github.com/jlengelbrecht/prox-ops/pull/1635) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(litellm): upgrade to v1.106.6 for published security advisories](https://github.com/jlengelbrecht/prox-ops/pull/1634) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(ai): remove voice-bridge and the qwen-tts inference services](https://github.com/jlengelbrecht/prox-ops/pull/1633) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(rook-ceph): upgrade the Rook operator to v1.18.11](https://github.com/jlengelbrecht/prox-ops/pull/1632) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(authentik): stop CPU throttling from killing the worker](https://github.com/jlengelbrecht/prox-ops/pull/1631) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(rook-ceph): upgrade the Rook operator to v1.17.9](https://github.com/jlengelbrecht/prox-ops/pull/1630) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
