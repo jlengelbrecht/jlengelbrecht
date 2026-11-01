@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(ai): add Qwen3-4B text model on the A2000 and retire whisper-medium](https://github.com/jlengelbrecht/prox-ops/pull/1642) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(litellm): disable upstream model-info polling](https://github.com/jlengelbrecht/prox-ops/pull/1641) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(rook-ceph): upgrade operator chart to v1.20.9](https://github.com/jlengelbrecht/prox-ops/pull/1640) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [chore(ai): remove the stable-audio, flux-klein and wan-video inference services](https://github.com/jlengelbrecht/prox-ops/pull/1639) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(kserve): let the Knative autoscaler scrape queue-proxy metrics](https://github.com/jlengelbrecht/prox-ops/pull/1638) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(rook-ceph): install the ceph-csi-drivers chart ahead of the v1.20 upgrade](https://github.com/jlengelbrecht/prox-ops/pull/1637) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
