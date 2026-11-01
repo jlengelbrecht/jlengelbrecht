@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(rook-ceph): upgrade the Rook operator to v1.18.11](https://github.com/jlengelbrecht/prox-ops/pull/1632) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(authentik): stop CPU throttling from killing the worker](https://github.com/jlengelbrecht/prox-ops/pull/1631) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(rook-ceph): upgrade the Rook operator to v1.17.9](https://github.com/jlengelbrecht/prox-ops/pull/1630) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(voicestudio): add the Hugging Face token for diarization](https://github.com/jlengelbrecht/prox-ops/pull/1629) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(rook-ceph): upgrade the Rook operator to v1.16.9](https://github.com/jlengelbrecht/prox-ops/pull/1628) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(voicestudio): run on the RTX A5000](https://github.com/jlengelbrecht/prox-ops/pull/1627) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
