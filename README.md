@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(talos): allow tuppr os:admin Talos API access from system-upgrade](https://github.com/jlengelbrecht/prox-ops/pull/1678) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(api): accept a null pump-profile basal rate](https://github.com/lumose-health/android-unofficial/pull/53) on [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial)
 - [feat(system-upgrade): deploy tuppr upgrade controller, inert](https://github.com/jlengelbrecht/prox-ops/pull/1671) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(talos): add topf machine config alongside talhelper](https://github.com/jlengelbrecht/prox-ops/pull/1670) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(renovate): auto-merge core patch updates after a long soak](https://github.com/jlengelbrecht/prox-ops/pull/1645) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(renovate): unblock updates and speed up automerge](https://github.com/jlengelbrecht/prox-ops/pull/1644) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
