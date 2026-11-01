@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(api): dedupe Nightscout records in remaining readers](https://github.com/lumose-health/GlycemicGPT/pull/1050) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [feat(talos): single desired version with drift check, tuppr as only upgrader](https://github.com/jlengelbrecht/prox-ops/pull/1686) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix: preserve zero basal windows in Nightscout imports](https://github.com/lumose-health/GlycemicGPT/pull/1049) on [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT)
 - [feat(talos): allow tuppr os:admin Talos API access from system-upgrade](https://github.com/jlengelbrecht/prox-ops/pull/1678) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(api): accept a null pump-profile basal rate](https://github.com/lumose-health/android-unofficial/pull/53) on [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial)
-- [feat(system-upgrade): deploy tuppr upgrade controller, inert](https://github.com/jlengelbrecht/prox-ops/pull/1671) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
