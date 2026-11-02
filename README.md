@@ -97,11 +97,11 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [docs: refine FR-28 for transient restore failures and sync the tracker](https://github.com/lumose-health/ios-unofficial/pull/22) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 - [feat: onboarding permission requests and a note on what stops monitoring](https://github.com/lumose-health/ios-unofficial/pull/21) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 - [chore(ci): retire the Terraform-driven Talos upgrade workflows](https://github.com/jlengelbrecht/prox-ops/pull/1715) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat: Driver registry with derived capability slots and a persisted active set](https://github.com/lumose-health/ios-unofficial/pull/20) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 - [feat: first-run onboarding with an unskippable safety step and a server-optional Backend stage](https://github.com/lumose-health/ios-unofficial/pull/19) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
-- [feat: Home refresh that keeps cached values, and honest card placeholders](https://github.com/lumose-health/ios-unofficial/pull/18) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
 
 ## ⭐ Recent Stars
 
