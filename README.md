@@ -82,10 +82,10 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 👷 Check out what I'm currently working on
 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files
+- [lumose-health/website](https://github.com/lumose-health/website) - Lumose project website - lumose.org
+- [lumose-health/lumose](https://github.com/lumose-health/lumose) - Because no one should manage diabetes alone 💙
 - [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
-- [lumose-health/GlycemicGPT](https://github.com/lumose-health/GlycemicGPT) - Because no one should manage diabetes alone 💙
-- [lumose-health/website](https://github.com/lumose-health/website) - GlycemicGPT project website - glycemicgpt.org -->
+- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files -->
 
 ## 🌱 My latest projects
 
@@ -97,16 +97,12 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [docs: refine FR-28 for transient restore failures and sync the tracker](https://github.com/lumose-health/ios-unofficial/pull/22) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
-- [feat: onboarding permission requests and a note on what stops monitoring](https://github.com/lumose-health/ios-unofficial/pull/21) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
-- [chore(ci): retire the Terraform-driven Talos upgrade workflows](https://github.com/jlengelbrecht/prox-ops/pull/1715) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat: Driver registry with derived capability slots and a persisted active set](https://github.com/lumose-health/ios-unofficial/pull/20) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
-- [feat: first-run onboarding with an unskippable safety step and a server-optional Backend stage](https://github.com/lumose-health/ios-unofficial/pull/19) on [lumose-health/ios-unofficial](https://github.com/lumose-health/ios-unofficial)
+- [feat(v2): port the architecture diagram](https://github.com/lumose-health/website/pull/663) on [lumose-health/website](https://github.com/lumose-health/website)
 
 ## ⭐ Recent Stars
 
-- [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
-- [wangzan101/Mika](https://github.com/wangzan101/Mika) - An on-device AI agent for Android that operates apps and the web to get things done for you.
-- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.
-- [Conway-Research/automaton](https://github.com/Conway-Research/automaton) - The first AI that can earn its own existence, replicate, and evolve — without needing a human
-- [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) - 11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn&#39;t need additional client-side software
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
+- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
+- [BerriAI/moyai](https://github.com/BerriAI/moyai) - A self-hosted coding agent for background work - works with Claude Code, Codex, OpenCode &amp; 100&#43; providers
