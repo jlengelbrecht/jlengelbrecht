@@ -97,9 +97,9 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [fix(v2): show AI subscription sign-in in the bring your own AI section](https://github.com/lumose-health/website/pull/674) on [lumose-health/website](https://github.com/lumose-health/website)
+- [fix(home): correct the AI provider and chat demo claims](https://github.com/lumose-health/website/pull/673) on [lumose-health/website](https://github.com/lumose-health/website)
 - [feat(ai): add Claude Code project router pilot](https://github.com/jlengelbrecht/prox-ops/pull/2018) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [fix(openbao): validate owner configure preflight and callback](https://github.com/jlengelbrecht/prox-ops/pull/1998) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(pam): page pending approvals through Pushover](https://github.com/jlengelbrecht/prox-ops/pull/1997) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 
 ## ⭐ Recent Stars
 
