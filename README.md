@@ -97,6 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(pam): page pending approvals through Pushover](https://github.com/jlengelbrecht/prox-ops/pull/1997) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(v2): add the Get started section with install tabs](https://github.com/lumose-health/website/pull/665) on [lumose-health/website](https://github.com/lumose-health/website)
 - [feat(v2): port the architecture diagram](https://github.com/lumose-health/website/pull/663) on [lumose-health/website](https://github.com/lumose-health/website)
 
