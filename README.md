@@ -100,7 +100,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 - [feat(ai): add Claude Code project router pilot](https://github.com/jlengelbrecht/prox-ops/pull/2018) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [fix(openbao): validate owner configure preflight and callback](https://github.com/jlengelbrecht/prox-ops/pull/1998) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
 - [feat(pam): page pending approvals through Pushover](https://github.com/jlengelbrecht/prox-ops/pull/1997) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
-- [feat(v2): add the Get started section with install tabs](https://github.com/lumose-health/website/pull/665) on [lumose-health/website](https://github.com/lumose-health/website)
 
 ## ⭐ Recent Stars
 
