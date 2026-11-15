@@ -101,7 +101,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 - [feat(v2): restyle legal pages and the 404 behind the preview flag](https://github.com/lumose-health/website/pull/752) on [lumose-health/website](https://github.com/lumose-health/website)
 - [Keep reading the source for an add Nyctr sent and could not confirm](https://github.com/homelab-0/nyctr/pull/42) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 - [fix(docs): stop the page jumping on header focus, plus review fixes](https://github.com/lumose-health/website/pull/750) on [lumose-health/website](https://github.com/lumose-health/website)
-- [Say a change happened only where the record says it was applied](https://github.com/homelab-0/nyctr/pull/41) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 
 ## ⭐ Recent Stars
 
