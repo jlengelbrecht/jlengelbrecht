@@ -97,6 +97,7 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [perf(v2): cut main-thread work on the /v2 home page](https://github.com/lumose-health/website/pull/760) on [lumose-health/website](https://github.com/lumose-health/website)
 - [Stop counting what has left the network, and drop it after 7 days](https://github.com/homelab-0/nyctr/pull/45) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 - [Store a collection without stopping the server, and read a DNS log from where the last read ended](https://github.com/homelab-0/nyctr/pull/44) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 
