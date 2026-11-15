@@ -97,8 +97,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [feat(v2): show a different sample chat per AI provider](https://github.com/lumose-health/website/pull/764) on [lumose-health/website](https://github.com/lumose-health/website)
 - [fix(v2): drop the sync date from the contributors card](https://github.com/lumose-health/website/pull/763) on [lumose-health/website](https://github.com/lumose-health/website)
-- [ci: audit /v2 in Lighthouse and run check-v2.sh](https://github.com/lumose-health/website/pull/762) on [lumose-health/website](https://github.com/lumose-health/website)
 
 ## ⭐ Recent Stars
 
