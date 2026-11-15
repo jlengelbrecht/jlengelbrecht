@@ -97,8 +97,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [Stop counting what has left the network, and drop it after 7 days](https://github.com/homelab-0/nyctr/pull/45) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 - [Store a collection without stopping the server, and read a DNS log from where the last read ended](https://github.com/homelab-0/nyctr/pull/44) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
-- [Release scheduled collection, source editing and removal, and temporary access kept on record (v0.1.0-alpha.5)](https://github.com/homelab-0/nyctr/pull/43) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 
 ## ⭐ Recent Stars
 
