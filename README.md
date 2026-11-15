@@ -97,8 +97,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [Store a collection without stopping the server, and read a DNS log from where the last read ended](https://github.com/homelab-0/nyctr/pull/44) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 - [Release scheduled collection, source editing and removal, and temporary access kept on record (v0.1.0-alpha.5)](https://github.com/homelab-0/nyctr/pull/43) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
-- [feat(v2): restyle legal pages and the 404 behind the preview flag](https://github.com/lumose-health/website/pull/752) on [lumose-health/website](https://github.com/lumose-health/website)
 
 ## ⭐ Recent Stars
 
