@@ -97,8 +97,8 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [Release collection that keeps the server answering, dropping what has left the network, proxy counting and the model in the console (v0.1.0-alpha.6)](https://github.com/homelab-0/nyctr/pull/50) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 - [Pass the model&#39;s allowed servers, keys and trace style through the chart and Compose, and document them](https://github.com/homelab-0/nyctr/pull/49) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
-- [Add a Model card to Setup, with a Test button and refusals in plain words](https://github.com/homelab-0/nyctr/pull/48) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 
 ## ⭐ Recent Stars
 
