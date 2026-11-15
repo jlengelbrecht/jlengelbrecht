@@ -83,9 +83,9 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
 - [lumose-health/website](https://github.com/lumose-health/website) - Lumose project website - lumose.org
+- [homelab-0/nyctr](https://github.com/homelab-0/nyctr) - 
 - [lumose-health/lumose](https://github.com/lumose-health/lumose) - Because no one should manage diabetes alone 💙
-- [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android 
-- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files -->
+- [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android  -->
 
 ## 🌱 My latest projects
 
@@ -97,14 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [fix(v2): demo consistency, first-view chat, forced-colors buttons and setup copy](https://github.com/lumose-health/website/pull/675) on [lumose-health/website](https://github.com/lumose-health/website)
-- [fix(v2): show AI subscription sign-in in the bring your own AI section](https://github.com/lumose-health/website/pull/674) on [lumose-health/website](https://github.com/lumose-health/website)
-- [fix(home): correct the AI provider and chat demo claims](https://github.com/lumose-health/website/pull/673) on [lumose-health/website](https://github.com/lumose-health/website)
+- [Release scheduled collection, source editing and removal, and temporary access kept on record (v0.1.0-alpha.5)](https://github.com/homelab-0/nyctr/pull/43) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
+- [feat(v2): restyle legal pages and the 404 behind the preview flag](https://github.com/lumose-health/website/pull/752) on [lumose-health/website](https://github.com/lumose-health/website)
+- [Keep reading the source for an add Nyctr sent and could not confirm](https://github.com/homelab-0/nyctr/pull/42) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
+- [fix(docs): stop the page jumping on header focus, plus review fixes](https://github.com/lumose-health/website/pull/750) on [lumose-health/website](https://github.com/lumose-health/website)
+- [Say a change happened only where the record says it was applied](https://github.com/homelab-0/nyctr/pull/41) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 
 ## ⭐ Recent Stars
 
-- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn&#39;t need additional client-side software
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
-- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
-- [cloudflare/computer](https://github.com/cloudflare/computer) - Give your agent a computer 👾
-- [BerriAI/moyai](https://github.com/BerriAI/moyai) - A self-hosted coding agent for background work - works with Claude Code, Codex, OpenCode &amp; 100&#43; providers
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or use Langfuse Cloud.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills &#43; 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
