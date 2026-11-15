@@ -98,7 +98,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 🔨 My recent Pull Requests
 
 - [Show members the device they signed in on, and give administrators the switch that turns recognition on](https://github.com/homelab-0/nyctr/pull/52) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
-- [Recognise the device a member signs in on, so it need not be assigned first (server part, off until switched on)](https://github.com/homelab-0/nyctr/pull/51) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 
 ## ⭐ Recent Stars
 
