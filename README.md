@@ -97,7 +97,6 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
-- [feat(v2): show a different sample chat per AI provider](https://github.com/lumose-health/website/pull/764) on [lumose-health/website](https://github.com/lumose-health/website)
 
 ## ⭐ Recent Stars
 
