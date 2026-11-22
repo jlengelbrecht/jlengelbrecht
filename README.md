@@ -82,10 +82,10 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 ## 👷 Check out what I'm currently working on
 
 - [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops) - Proxmox-native Talos K8s—Flux GitOps, Terraform, Ceph, and multi-VLAN wizardry 🧙‍♂️
-- [lumose-health/website](https://github.com/lumose-health/website) - Lumose project website - lumose.org
 - [homelab-0/nyctr](https://github.com/homelab-0/nyctr) - 
-- [lumose-health/lumose](https://github.com/lumose-health/lumose) - Because no one should manage diabetes alone 💙
-- [lumose-health/android-unofficial](https://github.com/lumose-health/android-unofficial) - sideloaded mobile builds of glycemicgpt for android  -->
+- [lumose-health/website](https://github.com/lumose-health/website) - Lumose project website - lumose.org
+- [lumose-health/.github](https://github.com/lumose-health/.github) - Organization profile and default community health files
+- [lumose-health/lumose](https://github.com/lumose-health/lumose) - Because no one should manage diabetes alone 💙 -->
 
 ## 🌱 My latest projects
 
@@ -97,11 +97,16 @@ I'm a DevOps engineer from the US who loves building automated, scalable solutio
 
 ## 🔨 My recent Pull Requests
 
+- [Add persistent encryption keys for model credentials](https://github.com/homelab-0/nyctr/pull/77) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
+- [Prepare Nyctr self-service infrastructure wiring](https://github.com/jlengelbrecht/prox-ops/pull/2197) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [Update Nyctr to v0.1.0-alpha.7](https://github.com/jlengelbrecht/prox-ops/pull/2192) on [jlengelbrecht/prox-ops](https://github.com/jlengelbrecht/prox-ops)
+- [Prepare v0.1.0-alpha.7 with member site requests and upgrade notes](https://github.com/homelab-0/nyctr/pull/76) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
+- [Let members ask about a site that did not open](https://github.com/homelab-0/nyctr/pull/75) on [homelab-0/nyctr](https://github.com/homelab-0/nyctr)
 
 ## ⭐ Recent Stars
 
-- [0xdeadf1sh/T1DMAI](https://github.com/0xdeadf1sh/T1DMAI) - A model zoo of blood glucose forecasters trained &amp; tested on my own data
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or use Langfuse Cloud.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills &#43; 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
+- [zortos293/Lichii](https://github.com/zortos293/Lichii) - VERY experimental Nintendo Switch 2 emulator
+- [Doezer/Questarr](https://github.com/Doezer/Questarr) - Questarr is an *Arr-inspired game manager that helps you discover, track, and automatically download the games you want.
+- [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) - Private AI meeting notes that stay on your computer. No meeting bot. Free and open source for Mac, Windows and Linux. An alternative to Granola, Otter and Fireflies.
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
